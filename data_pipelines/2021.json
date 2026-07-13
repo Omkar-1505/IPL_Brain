@@ -1,0 +1,2462 @@
+[
+{
+"match_no": "Match 1",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "RCB",
+"tactical_flaw": "Tentative against the ball angling into the pads early.",
+"optimal_tactic": "Mohammed Siraj to pitch it up and look for early swing."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "RCB",
+"tactical_flaw": "Struggles against extreme pace-off deliveries dug into the pitch.",
+"optimal_tactic": "Harshal Patel to heavily use dipping off-cutters."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Fine Leg",
+"reason": "In position for the inside edge or leg glance."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull off the slow bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Virat Kohli",
+"batter_benefited": "Krunal Pandya",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Kohli dropped Krunal but RCB restricted MI at the death thanks to Harshal Patel's 5-fer."
+}
+]
+},
+{
+"match_no": "Match 2",
+"season": "2021",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "DC",
+"tactical_flaw": "Can be tucked up by high pace angling into the ribcage.",
+"optimal_tactic": "Avesh Khan to bowl back-of-a-length into the body to cramp him."
+},
+{
+"batter": "Prithvi Shaw",
+"opponent": "CSK",
+"tactical_flaw": "Severe weakness against swinging deliveries targeting the stumps.",
+"optimal_tactic": "Deepak Chahar to bowl full inswingers searching for bowled or LBW."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Prithvi Shaw",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mitchell Santner",
+"batter_benefited": "Shikhar Dhawan",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dhawan and Shaw put on a 138-run stand to make a mockery of a 189-run chase."
+}
+]
+},
+{
+"match_no": "Match 3",
+"season": "2021",
+"insights": [
+{
+"batter": "Nitish Rana",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the front pad early.",
+"optimal_tactic": "Bhuvneshwar Kumar to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Manish Pandey",
+"opponent": "KKR",
+"tactical_flaw": "Takes time to accelerate against high-quality mystery spin.",
+"optimal_tactic": "Varun Chakaravarthy to bowl tight lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Nitish Rana",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Manish Pandey",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Abdul Samad",
+"batter_benefited": "Shubman Gill",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Gill to support Rana's 80, helping KKR to a winning total."
+}
+]
+},
+{
+"match_no": "Match 4",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "RR",
+"tactical_flaw": "Over-cautious against extreme pace bouncers early in his innings.",
+"optimal_tactic": "Chris Morris to employ aggressive short pitch bowling."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "PBKS",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations at the death.",
+"optimal_tactic": "Arshdeep Singh to extensively use wide yorkers and dipping off-cutters."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the sliced shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mayank Agarwal",
+"batter_benefited": "Sanju Samson",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Samson played an unbelievable knock of 119 but was caught on the last ball attempting a six to win the match."
+}
+]
+},
+{
+"match_no": "Match 5",
+"season": "2021",
+"insights": [
+{
+"batter": "Suryakumar Yadav",
+"opponent": "KKR",
+"tactical_flaw": "Tied down by consistent wide, full lines outside off.",
+"optimal_tactic": "Pat Cummins to pack the off-side and bowl wide yorkers."
+},
+{
+"batter": "Andre Russell",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to incoming leg-spin deliveries cramping him for room.",
+"optimal_tactic": "Rahul Chahar to bowl fast leg-breaks targeting the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "Essential for catching the slice when denied leg-side shots."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long On",
+"reason": "To catch the mistimed straight hit."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Nitish Rana",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rana looked set to win the game before Rahul Chahar (4/27) triggered a massive KKR choke."
+}
+]
+},
+{
+"match_no": "Match 6",
+"season": "2021",
+"insights": [
+{
+"batter": "Glenn Maxwell",
+"opponent": "SRH",
+"tactical_flaw": "Highly aggressive but impatient against top-tier wrist spin.",
+"optimal_tactic": "Rashid Khan to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Manish Pandey",
+"opponent": "RCB",
+"tactical_flaw": "Struggles to accelerate against left-arm orthodox spin sliding across him.",
+"optimal_tactic": "Shahbaz Ahmed to bowl a tight off-stump line to restrict strike rotation."
+}
+],
+"fielding": [
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Manish Pandey",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Harshal Patel",
+"batter_benefited": "David Warner",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Warner scored 54, but Shahbaz Ahmed's triple-wicket over caused a dramatic SRH collapse."
+}
+]
+},
+{
+"match_no": "Match 7",
+"season": "2021",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "RR",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries from high pace.",
+"optimal_tactic": "Chris Morris to strictly target the wide guideline."
+},
+{
+"batter": "David Miller",
+"opponent": "DC",
+"tactical_flaw": "Lethal against spin but bogged down by wide pace off the ball.",
+"optimal_tactic": "Avesh Khan to bowl wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+},
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Prithvi Shaw",
+"batter_benefited": "Jaydev Unadkat",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Unadkat stuck around with Miller before Chris Morris smashed 36* off 18 to win a low-scoring thriller."
+}
+]
+},
+{
+"match_no": "Match 8",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "CSK",
+"tactical_flaw": "Notoriously vulnerable to sharp inswing targeted at the stumps.",
+"optimal_tactic": "Deepak Chahar to bowl full and search for swing immediately."
+},
+{
+"batter": "Chris Gayle",
+"opponent": "CSK",
+"tactical_flaw": "Takes time to accelerate against wide, slow outswing.",
+"optimal_tactic": "Deepak Chahar to bowl away from his arc to induce a false shot."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Chris Gayle",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ruturaj Gaikwad",
+"batter_benefited": "Shahrukh Khan",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Shahrukh's 47 was the only resistance as Deepak Chahar took 4/13 to destroy the PBKS top order."
+}
+]
+},
+{
+"match_no": "Match 9",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to mystery spin turning away from him on grippy pitches.",
+"optimal_tactic": "Mujeeb Ur Rahman to bowl tight lines to build dot pressure."
+},
+{
+"batter": "David Warner",
+"opponent": "MI",
+"tactical_flaw": "Can be tucked up by high-pace back-of-a-length deliveries.",
+"optimal_tactic": "Jasprit Bumrah to hit the deck hard and target the ribcage."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off strike rotation."
+},
+{
+"batter": "David Warner",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Jonny Bairstow",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "MI eventually squeezed SRH in the death overs, defending 150."
+}
+]
+},
+{
+"match_no": "Match 10",
+"season": "2021",
+"insights": [
+{
+"batter": "Glenn Maxwell",
+"opponent": "KKR",
+"tactical_flaw": "Goes hard early; prone to mystery spin.",
+"optimal_tactic": "Varun Chakaravarthy to bowl the googly."
+},
+{
+"batter": "AB de Villiers",
+"opponent": "KKR",
+"tactical_flaw": "Unstoppable when set but vulnerable to high-pace yorkers at the start of his innings.",
+"optimal_tactic": "Pat Cummins to strictly target the toes with sheer pace."
+}
+],
+"fielding": [
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Slip",
+"reason": "Crucial to catch the outside edge when he plays for the turn."
+},
+{
+"batter": "AB de Villiers",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice when reaching for wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Tripathi",
+"batter_benefited": "Glenn Maxwell",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "A disastrous drop. Maxwell (78) and ABD (76*) punished KKR severely."
+}
+]
+},
+{
+"match_no": "Match 11",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "DC",
+"tactical_flaw": "Over-cautious against extreme pace bouncers directed at the badge.",
+"optimal_tactic": "Kagiso Rabada to employ aggressive short pitch bowling."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to fast inswing into the pads.",
+"optimal_tactic": "Mohammed Shami to bowl full aiming for the base of middle stump."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Pace",
+"recommended_position": "Short Fine Leg",
+"reason": "For the inside edge or leg glance."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Jalaj Saxena",
+"batter_benefited": "Shikhar Dhawan",
+"position": "Deep Square Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dhawan batted flawlessly for 92 to guide DC to a 196-run chase."
+}
+]
+},
+{
+"match_no": "Match 12",
+"season": "2021",
+"insights": [
+{
+"batter": "Moeen Ali",
+"opponent": "RR",
+"tactical_flaw": "Takes time against sharp raw pace targeted at the chest.",
+"optimal_tactic": "Chris Morris to employ aggressive short pitch bowling."
+},
+{
+"batter": "Jos Buttler",
+"opponent": "CSK",
+"tactical_flaw": "Can be drawn into false shots by left-arm spin turning away.",
+"optimal_tactic": "Ravindra Jadeja to bowl flat on off-stump, spinning it away."
+}
+],
+"fielding": [
+{
+"batter": "Moeen Ali",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Jos Buttler",
+"bowler_type": "Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the sliced drive against the turn."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Dube",
+"batter_benefited": "David Miller",
+"position": "Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller was dropped but Jadeja and Moeen Ali spun a web to choke the RR chase."
+}
+]
+},
+{
+"match_no": "Match 13",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "DC",
+"tactical_flaw": "Struggles against slow leg-spin turning away from the bat on slow pitches.",
+"optimal_tactic": "Amit Mishra to flight the ball outside off-stump to invite the drive."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "MI",
+"tactical_flaw": "Can be tucked up by high-pace back-of-a-length deliveries.",
+"optimal_tactic": "Jasprit Bumrah to hit the deck hard and target the ribcage."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive against the spin."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Hardik Pandya",
+"batter_benefited": "Rishabh Pant",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "DC navigated a tough chase on a slow Chennai pitch largely due to Amit Mishra's 4/24."
+}
+]
+},
+{
+"match_no": "Match 14",
+"season": "2021",
+"insights": [
+{
+"batter": "Nicholas Pooran",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across his body.",
+"optimal_tactic": "Khaleel Ahmed to use off-cutters dug short into the pitch."
+},
+{
+"batter": "Jonny Bairstow",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Mohammed Shami to pitch it up and look for sharp inswing."
+}
+],
+"fielding": [
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot off the slow bouncer."
+},
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mayank Agarwal",
+"batter_benefited": "Kane Williamson",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Williamson anchored the chase seamlessly, securing SRH their first win of the season."
+}
+]
+},
+{
+"match_no": "Match 15",
+"season": "2021",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against mystery spin turning back into him.",
+"optimal_tactic": "Varun Chakaravarthy to bowl the googly continuously."
+},
+{
+"batter": "Andre Russell",
+"opponent": "CSK",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body.",
+"optimal_tactic": "Sam Curran to bowl the 5th stump line wide yorker consistently."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick when he fails to read the googly."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shardul Thakur",
+"batter_benefited": "Pat Cummins",
+"position": "Deep Square Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Cummins scored an unbelievable 66* off 34 to almost pull off an impossible chase of 220, but KKR fell short by 18 runs."
+}
+]
+},
+{
+"match_no": "Match 16",
+"season": "2021",
+"insights": [
+{
+"batter": "Sanju Samson",
+"opponent": "RCB",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Harshal Patel to extensively use dipping off-cutters."
+},
+{
+"batter": "Devdutt Padikkal",
+"opponent": "RR",
+"tactical_flaw": "Tentative against sharp inswing from left-arm pacers.",
+"optimal_tactic": "Chetan Sakariya to pitch it up and look for the front pad early."
+}
+],
+"fielding": [
+{
+"batter": "Sanju Samson",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+},
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Tewatia",
+"batter_benefited": "Devdutt Padikkal",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Padikkal scored a masterful 101* and Kohli 72* as RCB chased 177 without losing a wicket."
+}
+]
+},
+{
+"match_no": "Match 17",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles against slow leg-spin turning away from the bat.",
+"optimal_tactic": "Ravi Bishnoi to flight the ball outside off-stump to invite the drive."
+},
+{
+"batter": "KL Rahul",
+"opponent": "MI",
+"tactical_flaw": "Over-cautious against extreme pace bouncers directed at the badge.",
+"optimal_tactic": "Jasprit Bumrah to employ aggressive short pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive against the spin."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kieron Pollard",
+"batter_benefited": "Chris Gayle",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gayle supported Rahul effectively to chase down 131 with ease on a slow Chennai pitch."
+}
+]
+},
+{
+"match_no": "Match 18",
+"season": "2021",
+"insights": [
+{
+"batter": "Nitish Rana",
+"opponent": "RR",
+"tactical_flaw": "Takes time to accelerate against high-pace cutters dragging him wide.",
+"optimal_tactic": "Chris Morris to heavily use wide off-cutters away from his hitting arc."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "KKR",
+"tactical_flaw": "High intent leads to early risks against mystery spin.",
+"optimal_tactic": "Sunil Narine to bowl tight lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Nitish Rana",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Mavi",
+"batter_benefited": "David Miller",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Morris took 4 wickets to restrict KKR, and Samson guided RR to a 6-wicket win."
+}
+]
+},
+{
+"match_no": "Match 19",
+"season": "2021",
+"insights": [
+{
+"batter": "Ravindra Jadeja",
+"opponent": "RCB",
+"tactical_flaw": "Struggles to hit wide, slow off-cutters straight down the ground.",
+"optimal_tactic": "Harshal Patel to bowl dipping cutters extremely wide of off-stump."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "CSK",
+"tactical_flaw": "Ultra-aggressive against spin. Can be beaten by flat darts fired at the pads.",
+"optimal_tactic": "Ravindra Jadeja to bowl stump-to-stump rapidly to restrict his bat swing."
+}
+],
+"fielding": [
+{
+"batter": "Ravindra Jadeja",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "Placed exactly where he tends to slice the wide slower deliveries."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Ravindra Jadeja",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "An absolutely massive drop. Jadeja smashed Harshal Patel for 37 runs in the final over, ending up on 62*, and then took 3 wickets to destroy RCB."
+}
+]
+},
+{
+"match_no": "Match 20",
+"season": "2021",
+"insights": [
+{
+"batter": "Jonny Bairstow",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Avesh Khan to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "SRH",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries from high pace.",
+"optimal_tactic": "Khaleel Ahmed to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Vijay Shankar",
+"batter_benefited": "Rishabh Pant",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "The match went to a Super Over where Axar Patel brilliantly defended against Warner and Williamson to win it for DC."
+}
+]
+},
+{
+"match_no": "Match 21",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "KKR",
+"tactical_flaw": "Takes time against mystery spin turning away; bogs down the powerplay.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, restricting room and pace."
+},
+{
+"batter": "Eoin Morgan",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to extreme pace short balls angled at the throat.",
+"optimal_tactic": "Mohammed Shami to bowl aggressive bouncers from round the wicket."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+},
+{
+"batter": "Eoin Morgan",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mayank Agarwal",
+"batter_benefited": "Rahul Tripathi",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, releasing pressure as KKR chased a low total."
+}
+]
+},
+{
+"match_no": "Match 22",
+"season": "2021",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "RCB",
+"tactical_flaw": "Loses balance reaching for extreme wide yorkers at the death.",
+"optimal_tactic": "Mohammed Siraj to commit fully to the wide guideline outside off."
+},
+{
+"batter": "AB de Villiers",
+"opponent": "DC",
+"tactical_flaw": "Unstoppable when set but vulnerable to high-pace yorkers immediately.",
+"optimal_tactic": "Avesh Khan to bowl searing yorkers at the toes first ball."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+},
+{
+"batter": "AB de Villiers",
+"bowler_type": "Express Pace",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he digs the yorker out."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Shimron Hetmyer",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Hetmyer hit 53* off 25, nearly pulling off an impossible chase before Siraj defended 14 in the final over."
+}
+]
+},
+{
+"match_no": "Match 23",
+"season": "2021",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "SRH",
+"tactical_flaw": "Tentative against sharp inswing in the first two overs.",
+"optimal_tactic": "Khaleel Ahmed to pitch it up and look for the front pad early."
+},
+{
+"batter": "David Warner",
+"opponent": "CSK",
+"tactical_flaw": "Bogged down by wide, slow spin turning away on slow pitches.",
+"optimal_tactic": "Ravindra Jadeja to bowl a tight off-stump line to restrict boundaries."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "David Warner",
+"bowler_type": "Spin",
+"recommended_position": "Deep Cover",
+"reason": "To cover the sliced drive against the turn."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kedar Jadhav",
+"batter_benefited": "Faf du Plessis",
+"position": "Short Mid-Wicket",
+"error_type": "Misfield",
+"tactical_impact": "Allowed the CSK openers to settle; they chased 172 with immense ease."
+}
+]
+},
+{
+"match_no": "Match 24",
+"season": "2021",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to off-spin dragging him wide outside off stump.",
+"optimal_tactic": "Chris Morris to use wide, slower off-cutters away from his arc."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "MI",
+"tactical_flaw": "High intent leads to early risks against leg-spin on gripping surfaces.",
+"optimal_tactic": "Rahul Chahar to toss it up wide outside off to induce the false shot."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Point",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yashasvi Jaiswal",
+"batter_benefited": "Krunal Pandya",
+"position": "Backward Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "MI managed to complete the chase of 172 comfortably after Quinton de Kock's 70*."
+}
+]
+},
+{
+"match_no": "Match 25",
+"season": "2021",
+"insights": [
+{
+"batter": "Prithvi Shaw",
+"opponent": "KKR",
+"tactical_flaw": "Lethal if given room, but vulnerable to full inswing targeting the stumps.",
+"optimal_tactic": "Shivam Mavi must bowl full at the stumps. Back of length will be punished."
+},
+{
+"batter": "Pat Cummins",
+"opponent": "DC",
+"tactical_flaw": "Swings blindly at anything full; vulnerable to well-directed fast bouncers.",
+"optimal_tactic": "Avesh Khan to employ aggressive short pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Prithvi Shaw",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Pat Cummins",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Waiting for the uncontrolled hook shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Mavi",
+"batter_benefited": "Prithvi Shaw",
+"position": "Bowler",
+"error_type": "Tactical Execution Failure",
+"tactical_impact": "Mavi bowled wide outside off; Shaw hit him for 6 consecutive fours in the first over, killing the game instantly."
+}
+]
+},
+{
+"match_no": "Match 26",
+"season": "2021",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "PBKS",
+"tactical_flaw": "Frustrated by flat, left-arm orthodox spin sliding into the stumps.",
+"optimal_tactic": "Harpreet Brar to bowl stump-to-stump, denying him room to extend his arms."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "PBKS",
+"tactical_flaw": "Backs away to hit over cover; vulnerable to flat darts fired at the stumps.",
+"optimal_tactic": "Harpreet Brar to bowl full and fast at the stumps when he backs away."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Left-Arm Orthodox",
+"recommended_position": "Short Mid-Wicket",
+"reason": "Inside the ring to restrict the flick and build pressure."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Spin",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he backs away to slice it."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rajat Patidar",
+"batter_benefited": "KL Rahul",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Rahul scored a flawless 91*, setting up a total that Harpreet Brar (3/19) easily defended."
+}
+]
+},
+{
+"match_no": "Match 27",
+"season": "2021",
+"insights": [
+{
+"batter": "Kieron Pollard",
+"opponent": "CSK",
+"tactical_flaw": "Devastating straight down the ground. Must be forced to hit wide yorkers.",
+"optimal_tactic": "Shardul Thakur to strictly target the wide guideline. Do not miss on the pads."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "MI",
+"tactical_flaw": "Can be tucked up by high-pace back-of-a-length deliveries.",
+"optimal_tactic": "Jasprit Bumrah to hit the deck hard and target the ribcage."
+}
+],
+"fielding": [
+{
+"batter": "Kieron Pollard",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice when forced to reach for wide yorkers."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Faf du Plessis",
+"batter_benefited": "Kieron Pollard",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "A legendary drop. Faf dropped Pollard on 68; Pollard went on to score 87* off 34 and win the game off the final ball."
+}
+]
+},
+{
+"match_no": "Match 28",
+"season": "2021",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "SRH",
+"tactical_flaw": "Tentative against sharp inswing from high-quality seamers early in his innings.",
+"optimal_tactic": "Bhuvneshwar Kumar to pitch it up and look for the front pad immediately."
+},
+{
+"batter": "Kane Williamson",
+"opponent": "RR",
+"tactical_flaw": "Can be starved of strike by wide lines moving further away.",
+"optimal_tactic": "Mustafizur Rahman to bowl a tight 4th stump line and look for cutters away."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Kane Williamson",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Point",
+"reason": "To defend the off-side boundary."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Vijay Shankar",
+"batter_benefited": "Jos Buttler",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Buttler punished SRH brutally, scoring 124 to post a massive 220."
+}
+]
+},
+{
+"match_no": "Match 29",
+"season": "2021",
+"insights": [
+{
+"batter": "Mayank Agarwal",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Kagiso Rabada to swing the ball into the pads aiming for LBW."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles against slow off-spin turning away from the left-hander.",
+"optimal_tactic": "Jalaj Saxena to bowl flat on off-stump, spinning it away."
+}
+],
+"fielding": [
+{
+"batter": "Mayank Agarwal",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Spin",
+"recommended_position": "Deep Cover",
+"reason": "To cover the sliced drive against the turn."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kagiso Rabada",
+"batter_benefited": "Mayank Agarwal",
+"position": "Fine Leg",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Mayank to settle; he carried his bat for a brilliant 99*, though DC chased it down."
+}
+]
+},
+{
+"match_no": "Match 30",
+"season": "2021",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to extreme pace and bounce from left-arm seamers in the powerplay.",
+"optimal_tactic": "Trent Boult to bowl aggressive back-of-length deliveries early."
+},
+{
+"batter": "Suryakumar Yadav",
+"opponent": "CSK",
+"tactical_flaw": "Can be tucked up by high-pace bouncers into the armpit.",
+"optimal_tactic": "Josh Hazlewood to hit the deck hard and aim for the body."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the outside edge."
+},
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the uncomfortable fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Quinton de Kock",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gaikwad rescued CSK from 24/4 to post a winning total with a majestic 88*."
+}
+]
+},
+{
+"match_no": "Match 31",
+"season": "2021",
+"insights": [
+{
+"batter": "Devdutt Padikkal",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against high-quality mystery spin turning back into him.",
+"optimal_tactic": "Varun Chakaravarthy to bowl the googly continuously."
+},
+{
+"batter": "Virat Kohli",
+"opponent": "KKR",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Prasidh Krishna to pitch it up and look for sharp inswing."
+}
+],
+"fielding": [
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick when he fails to read the googly."
+},
+{
+"batter": "Virat Kohli",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Nitish Rana",
+"batter_benefited": "Srikar Bharat",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Barely mattered as Varun Chakaravarthy (3/13) dismantled RCB for 92."
+}
+]
+},
+{
+"match_no": "Match 32",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "RR",
+"tactical_flaw": "Loses intent during the death overs against wide pace-off variations.",
+"optimal_tactic": "Kartik Tyagi to commit fully to the wide yorker. Do not miss on the pads."
+},
+{
+"batter": "Evin Lewis",
+"opponent": "PBKS",
+"tactical_flaw": "Hits wildly through the line; prone to well-disguised slow off-cutters.",
+"optimal_tactic": "Arshdeep Singh to heavily use dipping cutters away from his arc."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Death Pacers",
+"recommended_position": "Sweeper Cover",
+"reason": "To cut off boundaries when he manages to slice the wide yorker."
+},
+{
+"batter": "Evin Lewis",
+"bowler_type": "Cutters",
+"recommended_position": "Long Off",
+"reason": "Pushed deep to catch the mistimed drive off the cutter."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Nicholas Pooran",
+"batter_benefited": "Kartik Tyagi",
+"position": "Batter",
+"error_type": "Tactical Batting Execution",
+"tactical_impact": "Pooran failed to hit a wide yorker in the final over; Tyagi defended 4 runs in the greatest final over in IPL history."
+}
+]
+},
+{
+"match_no": "Match 33",
+"season": "2021",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "DC",
+"tactical_flaw": "Can be tucked up by raw pace angling into the ribcage.",
+"optimal_tactic": "Anrich Nortje to hit the deck hard at 150+ kmph and aim for the body."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to accelerate against high-quality wide cutters.",
+"optimal_tactic": "Jason Holder to heavily use wide off-cutters away from his hitting arc."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Prithvi Shaw",
+"batter_benefited": "Abdul Samad",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Samad hit a quick cameo, but Nortje and Rabada's sheer pace restricted SRH to 134."
+}
+]
+},
+{
+"match_no": "Match 34",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against mystery spin turning away from him in the powerplay.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, spinning it away to build pressure."
+},
+{
+"batter": "Venkatesh Iyer",
+"opponent": "MI",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Jasprit Bumrah to use off-cutters dug short into the pitch."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the forceful drive against the spin."
+},
+{
+"batter": "Venkatesh Iyer",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Chahar",
+"batter_benefited": "Rahul Tripathi",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Tripathi punished MI with a brilliant 74* to help KKR chase down 156 with ease."
+}
+]
+},
+{
+"match_no": "Match 35",
+"season": "2021",
+"insights": [
+{
+"batter": "Devdutt Padikkal",
+"opponent": "CSK",
+"tactical_flaw": "Takes time to accelerate against slow dipping cutters.",
+"optimal_tactic": "Dwayne Bravo to heavily use wide, looping slower balls."
+},
+{
+"batter": "Ambati Rayudu",
+"opponent": "RCB",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps at the death.",
+"optimal_tactic": "Harshal Patel to bowl dipping yorkers aiming for the base of the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Ambati Rayudu",
+"bowler_type": "Death Pacers",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he digs it out."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Navdeep Saini",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "CSK gained momentum; Bravo took 3/24 to set up a comfortable 6-wicket win."
+}
+]
+},
+{
+"match_no": "Match 36",
+"season": "2021",
+"insights": [
+{
+"batter": "Sanju Samson",
+"opponent": "DC",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Avesh Khan to extensively use dipping off-cutters."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "RR",
+"tactical_flaw": "Notorious weakness against the short ball aimed at the right shoulder.",
+"optimal_tactic": "Kartik Tyagi to employ aggressive short pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Sanju Samson",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed specifically for the uncontrolled hook shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Riyan Parag",
+"batter_benefited": "Rishabh Pant",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Iyer (43*) anchored the chase as DC chased down a modest 154 easily."
+}
+]
+},
+{
+"match_no": "Match 37",
+"season": "2021",
+"insights": [
+{
+"batter": "Nicholas Pooran",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across.",
+"optimal_tactic": "Jason Holder to use extremely slow cutters dug short into the pitch."
+},
+{
+"batter": "Jason Holder",
+"opponent": "PBKS",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body.",
+"optimal_tactic": "Arshdeep Singh to bowl the 5th stump line wide yorker consistently."
+}
+],
+"fielding": [
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot off the slow bouncer."
+},
+{
+"batter": "Jason Holder",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kedar Jadhav",
+"batter_benefited": "Aiden Markram",
+"position": "Cover",
+"error_type": "Misfield",
+"tactical_impact": "Holder played a brilliant 47* and took 3/19, but SRH fell agonizingly short by 5 runs in a low-scoring thriller."
+}
+]
+},
+{
+"match_no": "Match 38",
+"season": "2021",
+"insights": [
+{
+"batter": "Andre Russell",
+"opponent": "CSK",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body but misses if pace is taken off.",
+"optimal_tactic": "Shardul Thakur to bowl wide, dipping slower balls outside his arc."
+},
+{
+"batter": "Ravindra Jadeja",
+"opponent": "KKR",
+"tactical_flaw": "Struggles to hit wide, slow off-cutters straight down the ground.",
+"optimal_tactic": "Prasidh Krishna to bowl extreme wide lines. Do not bowl at the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Andre Russell",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+},
+{
+"batter": "Ravindra Jadeja",
+"bowler_type": "Pace",
+"recommended_position": "Deep Cover",
+"reason": "Placed exactly where he tends to slice the wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Eoin Morgan",
+"batter_benefited": "Ravindra Jadeja",
+"position": "Extra Cover",
+"error_type": "Tactical Captaincy Error",
+"tactical_impact": "Prasidh Krishna missed his lengths, and Jadeja smashed 22 runs off 8 balls in the 19th over to steal the match."
+}
+]
+},
+{
+"match_no": "Match 39",
+"season": "2021",
+"insights": [
+{
+"batter": "Glenn Maxwell",
+"opponent": "MI",
+"tactical_flaw": "Highly aggressive but impatient against top-tier wrist spin.",
+"optimal_tactic": "Rahul Chahar to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "RCB",
+"tactical_flaw": "Tends to muscle the ball but struggles with well-disguised dipping slower balls.",
+"optimal_tactic": "Harshal Patel to use off-cutters rolling his fingers over the seam."
+}
+],
+"fielding": [
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Cutters",
+"recommended_position": "Extra Cover",
+"reason": "To stop the mistimed drive off the slower ball."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Chahar",
+"batter_benefited": "Glenn Maxwell",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Maxwell smashed 56, and Harshal Patel took an iconic hat-trick (Hardik, Pollard, Chahar) to dismantle MI."
+}
+]
+},
+{
+"match_no": "Match 40",
+"season": "2021",
+"insights": [
+{
+"batter": "Jason Roy",
+"opponent": "RR",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries from left-arm seamers.",
+"optimal_tactic": "Mustafizur Rahman to strictly target the wide guideline."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "SRH",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Sandeep Sharma to bowl wide of off-stump with precision."
+}
+],
+"fielding": [
+{
+"batter": "Jason Roy",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Priyam Garg",
+"batter_benefited": "Sanju Samson",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Roy hit 60 to help SRH chase 164 and break their massive losing streak."
+}
+]
+},
+{
+"match_no": "Match 41",
+"season": "2021",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "KKR",
+"tactical_flaw": "Struggles to generate power against mystery spin turning away on slow Sharjah pitches.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, keeping the ball away from his hitting arc."
+},
+{
+"batter": "Nitish Rana",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to high pace tucked into the armpit.",
+"optimal_tactic": "Anrich Nortje to hit the deck hard and aim for the body."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Deep Cover",
+"reason": "To cover the sliced drive against the turn."
+},
+{
+"batter": "Nitish Rana",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the uncomfortable fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravichandran Ashwin",
+"batter_benefited": "Sunil Narine",
+"position": "Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Narine hit a crucial 21 off 10, tilting a low-scoring thriller towards KKR."
+}
+]
+},
+{
+"match_no": "Match 42",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "MI",
+"tactical_flaw": "Can be tucked up by high-pace dipping yorkers at the death.",
+"optimal_tactic": "Jasprit Bumrah to strictly target the toes."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across his body.",
+"optimal_tactic": "Arshdeep Singh to use extremely slow cutters dug short."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Death Pacers",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he digs the yorker out."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot off the slow bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Nathan Ellis",
+"batter_benefited": "Hardik Pandya",
+"position": "Short Fine Leg",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, helping Hardik find form and steer MI home in a tight chase."
+}
+]
+},
+{
+"match_no": "Match 43",
+"season": "2021",
+"insights": [
+{
+"batter": "Evin Lewis",
+"opponent": "RCB",
+"tactical_flaw": "Hits wildly through the line; highly prone to well-disguised leg-spin.",
+"optimal_tactic": "Yuzvendra Chahal to toss it up wide outside off to induce the false shot."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "RR",
+"tactical_flaw": "Highly aggressive but impatient against slow left-arm spin on slow pitches.",
+"optimal_tactic": "Mahipal Lomror to bowl flat and wide, forcing him to fetch the ball."
+}
+],
+"fielding": [
+{
+"batter": "Evin Lewis",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Left-Arm Orthodox",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Chris Morris",
+"batter_benefited": "KS Bharat",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Bharat anchored the chase with 44, allowing Maxwell to freely smash 50*."
+}
+]
+},
+{
+"match_no": "Match 44",
+"season": "2021",
+"insights": [
+{
+"batter": "Jason Roy",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to high-quality outswing early in the powerplay.",
+"optimal_tactic": "Josh Hazlewood to bowl test-match lengths, pitching it up and swinging it away."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "SRH",
+"tactical_flaw": "Can be tucked up by high pace angling into the ribcage.",
+"optimal_tactic": "Jason Holder to hit the deck hard and target the body."
+}
+],
+"fielding": [
+{
+"batter": "Jason Roy",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the early nick from the driving length."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Wriddhiman Saha",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Missed Catch",
+"tactical_impact": "Gaikwad capitalized to build a match-winning partnership with Faf."
+}
+]
+},
+{
+"match_no": "Match 45",
+"season": "2021",
+"insights": [
+{
+"batter": "Venkatesh Iyer",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to get underneath extreme wide yorkers angled away.",
+"optimal_tactic": "Arshdeep Singh to strictly target the wide guideline."
+},
+{
+"batter": "Nicholas Pooran",
+"opponent": "KKR",
+"tactical_flaw": "Struggles to read mystery spin turning away from the bat.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, spinning it away."
+}
+],
+"fielding": [
+{
+"batter": "Venkatesh Iyer",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+},
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the forceful drive against the spin."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Eoin Morgan",
+"batter_benefited": "KL Rahul",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rahul scored 67 to anchor PBKS to a crucial victory."
+}
+]
+},
+{
+"match_no": "Match 46",
+"season": "2021",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Avesh Khan to swing the ball into the pads aiming for LBW."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "MI",
+"tactical_flaw": "Weakness against the short ball aimed at the right shoulder.",
+"optimal_tactic": "Nathan Coulter-Nile to employ aggressive short pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed specifically for the uncontrolled hook shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Saurabh Tiwary",
+"batter_benefited": "Ravichandran Ashwin",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Ashwin to hit the winning runs in a tense, low-scoring thriller in Sharjah."
+}
+]
+},
+{
+"match_no": "Match 47",
+"season": "2021",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "RR",
+"tactical_flaw": "Takes time against sharp leg-spin early in his innings.",
+"optimal_tactic": "Rahul Tewatia to toss it up and look for the inside edge."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "CSK",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Josh Hazlewood to bowl wide of off-stump with precision."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Leg Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "Inside the ring to restrict the flick."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "MS Dhoni",
+"batter_benefited": "Yashasvi Jaiswal",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Jaiswal unleashed chaos, smashing 50 off 19 balls to overshadow Gaikwad's brilliant 101*."
+}
+]
+},
+{
+"match_no": "Match 48",
+"season": "2021",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "PBKS",
+"tactical_flaw": "Frustrated by left-arm spin sliding across him early.",
+"optimal_tactic": "Harpreet Brar to bowl a tight off-stump line to restrict strike rotation."
+},
+{
+"batter": "Mayank Agarwal",
+"opponent": "RCB",
+"tactical_flaw": "Tentative against sharp inswing from high-quality seamers.",
+"optimal_tactic": "Mohammed Siraj to pitch it up and look for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+},
+{
+"batter": "Mayank Agarwal",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "KL Rahul",
+"batter_benefited": "Glenn Maxwell",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Maxwell hit 57, setting up a total that proved too much for PBKS."
+}
+]
+},
+{
+"match_no": "Match 49",
+"season": "2021",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "SRH",
+"tactical_flaw": "Lured into false shots by late outswing.",
+"optimal_tactic": "Bhuvneshwar Kumar to bowl full outswingers on the 4th stump line."
+},
+{
+"batter": "Kane Williamson",
+"opponent": "KKR",
+"tactical_flaw": "Takes time to accelerate against mystery spin.",
+"optimal_tactic": "Varun Chakaravarthy to bowl tight lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Second Slip",
+"reason": "Crucial to catch the outside edge."
+},
+{
+"batter": "Kane Williamson",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Abdul Samad",
+"batter_benefited": "Nitish Rana",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rana anchored a low chase of 116 successfully for KKR."
+}
+]
+},
+{
+"match_no": "Match 50",
+"season": "2021",
+"insights": [
+{
+"batter": "Shikhar Dhawan",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Deepak Chahar to swing the ball into the pads aiming for LBW."
+},
+{
+"batter": "Ambati Rayudu",
+"opponent": "DC",
+"tactical_flaw": "Takes time against sharp raw pace targeted at the chest.",
+"optimal_tactic": "Anrich Nortje to employ aggressive short pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Ambati Rayudu",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krishnappa Gowtham",
+"batter_benefited": "Shimron Hetmyer",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Hetmyer finished the game for DC in a very tight run chase."
+}
+]
+},
+{
+"match_no": "Match 51",
+"season": "2021",
+"insights": [
+{
+"batter": "Evin Lewis",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to extreme pace and bounce from right-arm seamers.",
+"optimal_tactic": "Jasprit Bumrah to bowl aggressive back-of-length deliveries early."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "RR",
+"tactical_flaw": "Struggles against slow leg-spin turning away from the bat.",
+"optimal_tactic": "Shreyas Gopal to flight the ball outside off-stump to invite the drive."
+}
+],
+"fielding": [
+{
+"batter": "Evin Lewis",
+"bowler_type": "Express Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the outside edge."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive against the spin."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sanju Samson",
+"batter_benefited": "Ishan Kishan",
+"position": "Wicketkeeper",
+"error_type": "Missed Catch",
+"tactical_impact": "Ishan smashed 50* off 25 to finish the chase of 91 in just 8.2 overs, boosting MI's NRR."
+}
+]
+},
+{
+"match_no": "Match 52",
+"season": "2021",
+"insights": [
+{
+"batter": "Devdutt Padikkal",
+"opponent": "SRH",
+"tactical_flaw": "Tentative against sharp inswing from high-quality seamers.",
+"optimal_tactic": "Bhuvneshwar Kumar to pitch it up and look for the front pad."
+},
+{
+"batter": "Jason Roy",
+"opponent": "RCB",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries.",
+"optimal_tactic": "Harshal Patel to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Jason Roy",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "George Garton",
+"batter_benefited": "Kane Williamson",
+"position": "Deep Square Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Williamson anchored SRH to defend 141 against a strong RCB batting lineup."
+}
+]
+},
+{
+"match_no": "Match 53",
+"season": "2021",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "CSK",
+"tactical_flaw": "Can be overly aggressive against high-pace in the powerplay.",
+"optimal_tactic": "Josh Hazlewood to bowl wide and induce the false shot."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles against slow leg-spin turning away from the bat.",
+"optimal_tactic": "Ravi Bishnoi to flight the ball outside off-stump."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of catching the outside edge."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive against the spin."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Deepak Chahar",
+"batter_benefited": "KL Rahul",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "An extremely costly drop. Rahul decimated CSK with an unbelievable 98* off 42 balls to chase 135 in 13 overs."
+}
+]
+},
+{
+"match_no": "Match 54",
+"season": "2021",
+"insights": [
+{
+"batter": "Venkatesh Iyer",
+"opponent": "RR",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Mustafizur Rahman to use off-cutters dug short into the pitch."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "KKR",
+"tactical_flaw": "Attempts ultra-aggressive shots against mystery spin.",
+"optimal_tactic": "Varun Chakaravarthy to bowl tight lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Venkatesh Iyer",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Riyan Parag",
+"batter_benefited": "Shubman Gill",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gill hit 56, and KKR posted 171 before bowling RR out for a pathetic 85."
+}
+]
+},
+{
+"match_no": "Match 55",
+"season": "2021",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "SRH",
+"tactical_flaw": "High intent leads to early risks outside off-stump.",
+"optimal_tactic": "Umran Malik to bowl express pace wide of off-stump."
+},
+{
+"batter": "Jason Roy",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Trent Boult to swing the ball into the pads aiming for LBW."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Express Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+},
+{
+"batter": "Jason Roy",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammad Nabi",
+"batter_benefited": "Suryakumar Yadav",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "SKY hit 82 off 40 as MI posted a mammoth 235 in a desperate attempt to qualify for the playoffs."
+}
+]
+},
+{
+"match_no": "Match 56",
+"season": "2021",
+"insights": [
+{
+"batter": "KS Bharat",
+"opponent": "DC",
+"tactical_flaw": "Struggles to generate power on wide yorkers at the death.",
+"optimal_tactic": "Avesh Khan to commit fully to the wide yorker. Do not miss on the pads."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "RCB",
+"tactical_flaw": "Can be drawn into false shots by quality leg-spin tossed up wide.",
+"optimal_tactic": "Yuzvendra Chahal to flight the ball and invite the drive against the spin."
+}
+],
+"fielding": [
+{
+"batter": "KS Bharat",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Axar Patel",
+"batter_benefited": "Glenn Maxwell",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Maxwell stayed till the end; Avesh Khan missed his wide yorker and KS Bharat hit a last-ball six to win the game."
+}
+]
+},
+{
+"match_no": "Qualifier 1",
+"season": "2021",
+"insights": [
+{
+"batter": "Prithvi Shaw",
+"opponent": "CSK",
+"tactical_flaw": "Severe weakness against swinging deliveries targeting the stumps.",
+"optimal_tactic": "Josh Hazlewood to bowl full inswingers searching for bowled or LBW."
+},
+{
+"batter": "MS Dhoni",
+"opponent": "DC",
+"tactical_flaw": "Cannot quickly pivot to play extreme pace short balls directed at his ribcage.",
+"optimal_tactic": "Avesh Khan to bowl extreme pace directly at the body."
+}
+],
+"fielding": [
+{
+"batter": "Prithvi Shaw",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "MS Dhoni",
+"bowler_type": "Express Pace",
+"recommended_position": "Backward Square Leg",
+"reason": "To catch the fended short ball."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kagiso Rabada",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Deep Square Leg",
+"error_type": "Misfield",
+"tactical_impact": "Gaikwad anchored with 70, before MS Dhoni rolled back the years to finish the game with 18* off 6."
+}
+]
+},
+{
+"match_no": "Eliminator",
+"season": "2021",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "KKR",
+"tactical_flaw": "Gets bogged down by mystery spin turning into him.",
+"optimal_tactic": "Sunil Narine to bowl stump-to-stump, restricting scoring areas."
+},
+{
+"batter": "Sunil Narine",
+"opponent": "RCB",
+"tactical_flaw": "Vulnerable to high pace tucked into the armpit.",
+"optimal_tactic": "Mohammed Siraj to bowl extreme pace directly at the body."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "Positioned for the flick shot played against the spin."
+},
+{
+"batter": "Sunil Narine",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the uncomfortable fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Devdutt Padikkal",
+"batter_benefited": "Venkatesh Iyer",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Sunil Narine took 4 wickets and hit three sixes off Dan Christian, knocking RCB out of the tournament."
+}
+]
+},
+{
+"match_no": "Qualifier 2",
+"season": "2021",
+"insights": [
+{
+"batter": "Shikhar Dhawan",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against mystery spin turning away from the left-hander.",
+"optimal_tactic": "Varun Chakaravarthy to bowl tight lines outside off-stump."
+},
+{
+"batter": "Rahul Tripathi",
+"opponent": "DC",
+"tactical_flaw": "High intent leads to early risks outside off-stump.",
+"optimal_tactic": "Kagiso Rabada to bowl test-match lengths outside off."
+}
+],
+"fielding": [
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the forceful drive against the spin."
+},
+{
+"batter": "Rahul Tripathi",
+"bowler_type": "Seam Pacer",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive on the up."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kagiso Rabada",
+"batter_benefited": "Shubman Gill",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "KKR nearly choked a chase of 136, losing 6 wickets for 7 runs, before Rahul Tripathi hit Ashwin for a six on the penultimate ball to reach the Final."
+}
+]
+},
+{
+"match_no": "Final",
+"season": "2021",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "KKR",
+"tactical_flaw": "Can be tucked up by extreme pace and bounce.",
+"optimal_tactic": "Lockie Ferguson to hit the deck hard and aim for the body."
+},
+{
+"batter": "Venkatesh Iyer",
+"opponent": "CSK",
+"tactical_flaw": "Fetches wide deliveries, leading to sliced catches.",
+"optimal_tactic": "Josh Hazlewood to bowl wide of off-stump with precision."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull off the ribs."
+},
+{
+"batter": "Venkatesh Iyer",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Dinesh Karthik",
+"batter_benefited": "Faf du Plessis",
+"position": "Wicketkeeper",
+"error_type": "Missed Stumping",
+"tactical_impact": "Faf was stranded on 2; he survived to score a masterful 86. KKR's middle order collapsed to Shardul Thakur, handing CSK their 4th IPL title."
+}
+]
+}
+]
