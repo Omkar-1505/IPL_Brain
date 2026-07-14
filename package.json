@@ -1,0 +1,29 @@
+{
+  "name": "ipl_brain",
+  "version": "1.0.0",
+  "description": "This is a Data Science project where it will help the teams to bid for players in auction as per their need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkar-1505/IPL_Brain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omkar-1505/IPL_Brain/issues"
+  },
+  "homepage": "https://github.com/Omkar-1505/IPL_Brain#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "framer-motion": "^12.42.2",
+    "lucide-react": "^1.24.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "recharts": "^3.9.2",
+    "vite": "^8.1.4"
+  }
+}
