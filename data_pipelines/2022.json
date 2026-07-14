@@ -1,0 +1,3037 @@
+[
+{
+"match_no": "Match 1",
+"season": "2022",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "KKR",
+"tactical_flaw": "Tentative footwork against high-quality outswing early in the powerplay.",
+"optimal_tactic": "Umesh Yadav to bowl test-match lengths, pitching it up and swinging it away."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to short-pitched deliveries directed at the right shoulder.",
+"optimal_tactic": "Adam Milne to bowl aggressive bouncers from around the wicket."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the early nick from the driving length."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed for the uncontrolled hook or pull shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Dube",
+"batter_benefited": "Ajinkya Rahane",
+"position": "Mid-Wicket",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, helping Rahane set a solid platform for KKR's chase."
+}
+]
+},
+{
+"match_no": "Match 2",
+"season": "2022",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "DC",
+"tactical_flaw": "Struggles to generate power on slow, wide off-cutters away from his arc.",
+"optimal_tactic": "Khaleel Ahmed to heavily use slower bouncers and cutters wide of off-stump."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "MI",
+"tactical_flaw": "Loses balance reaching for extreme wide yorkers from over the wicket.",
+"optimal_tactic": "Jasprit Bumrah to strictly target the wide guideline. Do not bowl at the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary when he tries to slap the slow ball over the off side."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at the wide yorker."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tim David",
+"batter_benefited": "Lalit Yadav",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "A costly drop in the death overs; Lalit Yadav guided DC to a miraculous chase."
+}
+]
+},
+{
+"match_no": "Match 3",
+"season": "2022",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to high pace tucked into the ribcage early in his innings.",
+"optimal_tactic": "Odean Smith to bowl back-of-a-length into the body to cramp him."
+},
+{
+"batter": "Bhanuka Rajapaksa",
+"opponent": "RCB",
+"tactical_flaw": "Hits wildly through the line; highly prone to well-disguised leg-spin.",
+"optimal_tactic": "Wanindu Hasaranga to toss it up wide outside off to induce the false shot."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Bhanuka Rajapaksa",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Anuj Rawat",
+"batter_benefited": "Odean Smith",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped Odean Smith who then hit 25 off 8 balls to finish a massive 205-run chase."
+}
+]
+},
+{
+"match_no": "Match 4",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to late seam movement pitching on middle and nipping away.",
+"optimal_tactic": "Mohammed Shami to bowl test-match lengths, pitching on middle and off."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "LSG",
+"tactical_flaw": "Tends to muscle the ball but struggles with fast bouncers directed at his badge.",
+"optimal_tactic": "Dushmantha Chameera to employ aggressive short-pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Seam Pacer",
+"recommended_position": "Wicketkeeper",
+"reason": "Standing slightly up to negate his crease depth against the moving ball."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge when he attempts the awkward hook."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Deepak Hooda",
+"batter_benefited": "David Miller",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, releasing the pressure applied by the spinners."
+}
+]
+},
+{
+"match_no": "Match 5",
+"season": "2022",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "RR",
+"tactical_flaw": "Can be starved of strike by wide lines moving further away, forcing risky shots.",
+"optimal_tactic": "Prasidh Krishna to bowl a tight 4th stump line and look for outswing."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "SRH",
+"tactical_flaw": "High intent against raw pace leads to upper-cutting short, wide deliveries.",
+"optimal_tactic": "Umran Malik to bowl express pace short and wide of off-stump."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the outside edge on the defensive prod."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Express Pace",
+"recommended_position": "Third Man",
+"reason": "Stationed perfectly for the top-edged upper cut."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Devdutt Padikkal",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Padikkal capitalized on the drop to help RR post a massive 210."
+}
+]
+},
+{
+"match_no": "Match 6",
+"season": "2022",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "RCB",
+"tactical_flaw": "Highly aggressive but impatient against top-tier wrist spin.",
+"optimal_tactic": "Wanindu Hasaranga to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Dinesh Karthik",
+"opponent": "KKR",
+"tactical_flaw": "Struggles to generate power on wide yorkers early in his innings.",
+"optimal_tactic": "Andre Russell to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Dinesh Karthik",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice when he reaches for wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Umesh Yadav",
+"batter_benefited": "David Willey",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Cost KKR dearly in a low-scoring thriller where RCB chased 128."
+}
+]
+},
+{
+"match_no": "Match 7",
+"season": "2022",
+"insights": [
+{
+"batter": "Robin Uthappa",
+"opponent": "LSG",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the front pad early.",
+"optimal_tactic": "Avesh Khan to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Evin Lewis",
+"opponent": "CSK",
+"tactical_flaw": "Hits wildly through the line; prone to well-disguised slow off-cutters.",
+"optimal_tactic": "Dwayne Bravo to heavily use flatter, darting deliveries away from his arc."
+}
+],
+"fielding": [
+{
+"batter": "Robin Uthappa",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Evin Lewis",
+"bowler_type": "Spin",
+"recommended_position": "Long Off",
+"reason": "Pushed deep to catch the mistimed lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Moeen Ali",
+"batter_benefited": "Quinton de Kock",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "De Kock survived to score 61, helping LSG chase down an improbable 211."
+}
+]
+},
+{
+"match_no": "Match 8",
+"season": "2022",
+"insights": [
+{
+"batter": "Shikhar Dhawan",
+"opponent": "KKR",
+"tactical_flaw": "Vulnerable to extreme pace moving away from him outside off.",
+"optimal_tactic": "Umesh Yadav to bowl hard lengths angling across the left-hander."
+},
+{
+"batter": "Andre Russell",
+"opponent": "PBKS",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body but misses if pace is taken off.",
+"optimal_tactic": "Arshdeep Singh to bowl wide, dipping slower balls outside his arc."
+}
+],
+"fielding": [
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Express Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of catching the outside edge."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Odean Smith",
+"batter_benefited": "Andre Russell",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "A disastrous drop; Russell obliterated PBKS with 70* off 31 balls."
+}
+]
+},
+{
+"match_no": "Match 9",
+"season": "2022",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "MI",
+"tactical_flaw": "Tentative against a classic fast yorker swinging into the base of the stumps early on.",
+"optimal_tactic": "Jasprit Bumrah to bowl the perfect inswinging yorker in the powerplay."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "RR",
+"tactical_flaw": "Struggles against left-arm pace swinging back into the pads.",
+"optimal_tactic": "Trent Boult to bowl full inswingers searching for LBW."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Pace",
+"recommended_position": "Short Fine Leg",
+"reason": "For the inside edge when digging out the yorker."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Murugan Ashwin",
+"batter_benefited": "Jos Buttler",
+"position": "Mid-Off",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Buttler to get his eye in; he went on to score a brilliant 100."
+}
+]
+},
+{
+"match_no": "Match 10",
+"season": "2022",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "DC",
+"tactical_flaw": "Can be tucked up by high pace angling into the ribcage.",
+"optimal_tactic": "Anrich Nortje to bowl back-of-a-length into the body."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "GT",
+"tactical_flaw": "Tends to charge fast bowlers, highly vulnerable to extreme pace bouncers.",
+"optimal_tactic": "Lockie Ferguson to bowl aggressive short pitch bowling directly at the body."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Waiting for the uncontrolled hook shot when he charges."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Lalit Yadav",
+"batter_benefited": "Shubman Gill",
+"position": "Backward Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gill survived to score a beautiful 84 to set up GT's victory."
+}
+]
+},
+{
+"match_no": "Match 11",
+"season": "2022",
+"insights": [
+{
+"batter": "Liam Livingstone",
+"opponent": "CSK",
+"tactical_flaw": "Highly aggressive but impatient against wide left-arm orthodox spin.",
+"optimal_tactic": "Ravindra Jadeja to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Moeen Ali",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Kagiso Rabada to swing the ball into the pads aiming for LBW."
+}
+],
+"fielding": [
+{
+"batter": "Liam Livingstone",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Moeen Ali",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ambati Rayudu",
+"batter_benefited": "Liam Livingstone",
+"position": "Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Livingstone pulverized CSK for 60 off 32, taking the game out of reach."
+}
+]
+},
+{
+"match_no": "Match 12",
+"season": "2022",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "LSG",
+"tactical_flaw": "Can be starved of strike by firing wide yorkers past the tramline.",
+"optimal_tactic": "Avesh Khan to commit fully to the wide yorker. Do not miss on the pads."
+},
+{
+"batter": "KL Rahul",
+"opponent": "SRH",
+"tactical_flaw": "Over-cautious against tight medium pace swinging early.",
+"optimal_tactic": "Bhuvneshwar Kumar to bowl stump-to-stump, restricting scoring areas."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Death Pacers",
+"recommended_position": "Sweeper Cover",
+"reason": "To cut off boundaries when he manages to slice the wide yorker."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Deepak Hooda",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Hooda to build a solid 51 and help LSG post a winning total."
+}
+]
+},
+{
+"match_no": "Match 13",
+"season": "2022",
+"insights": [
+{
+"batter": "Sanju Samson",
+"opponent": "RCB",
+"tactical_flaw": "High intent leads to early risks against leg-spin on a gripping surface.",
+"optimal_tactic": "Wanindu Hasaranga to toss it up wide outside off-stump to induce the false shot."
+},
+{
+"batter": "Dinesh Karthik",
+"opponent": "RR",
+"tactical_flaw": "Can be cramped by sharp off-spin turning into him.",
+"optimal_tactic": "R. Ashwin to bowl tightly on middle and leg, restricting his swing."
+}
+],
+"fielding": [
+{
+"batter": "Sanju Samson",
+"bowler_type": "Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+},
+{
+"batter": "Dinesh Karthik",
+"bowler_type": "Off-Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To catch the paddle sweep or cramped flick."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Dinesh Karthik",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Karthik survived and played a spectacular 44* to chase down the target."
+}
+]
+},
+{
+"match_no": "Match 14",
+"season": "2022",
+"insights": [
+{
+"batter": "Suryakumar Yadav",
+"opponent": "KKR",
+"tactical_flaw": "Tied down by consistent wide, full lines outside off.",
+"optimal_tactic": "Pat Cummins to pack the off-side and bowl wide yorkers."
+},
+{
+"batter": "Pat Cummins",
+"opponent": "MI",
+"tactical_flaw": "Swings blindly at anything full; vulnerable to well-directed fast bouncers.",
+"optimal_tactic": "Tymal Mills to bowl aggressive short pitch bowling aimed at the helmet."
+}
+],
+"fielding": [
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "Essential for catching the slice when denied leg-side shots."
+},
+{
+"batter": "Pat Cummins",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Waiting for the uncontrolled hook shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Suryakumar Yadav",
+"batter_benefited": "Pat Cummins",
+"position": "Long On",
+"error_type": "Missed Catch/Six",
+"tactical_impact": "Parried a tough chance for a six; Cummins hit an unbelievable 56* off 15 to end the game."
+}
+]
+},
+{
+"match_no": "Match 15",
+"season": "2022",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to off-spin dragging him wide outside off stump.",
+"optimal_tactic": "Lalit Yadav to bowl the off-break away from the left-hander to force him to reach."
+},
+{
+"batter": "Prithvi Shaw",
+"opponent": "LSG",
+"tactical_flaw": "Severe weakness against extreme pace aimed at the stumps early.",
+"optimal_tactic": "Avesh Khan to bowl sheer pace directly at the stumps to expose his footwork."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Off-Spin",
+"recommended_position": "Deep Cover",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Prithvi Shaw",
+"bowler_type": "Express Pace",
+"recommended_position": "Second Slip",
+"reason": "To catch the edge if pace beats the bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Quinton de Kock",
+"position": "Wicketkeeper",
+"error_type": "Missed Stumping",
+"tactical_impact": "De Kock anchored the chase with 80 off 52 to secure the LSG win."
+}
+]
+},
+{
+"match_no": "Match 16",
+"season": "2022",
+"insights": [
+{
+"batter": "Liam Livingstone",
+"opponent": "GT",
+"tactical_flaw": "Impatient against high-quality wrist spin.",
+"optimal_tactic": "Rashid Khan to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Rahul Tewatia",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to get underneath extreme wide yorkers angled away.",
+"optimal_tactic": "Odean Smith to strictly target the wide guideline. Do not bowl at the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Liam Livingstone",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Odean Smith",
+"batter_benefited": "Rahul Tewatia",
+"position": "Bowler",
+"error_type": "Tactical Throwing Error",
+"tactical_impact": "Unnecessary throw resulted in an overthrow, allowing Tewatia on strike to hit two legendary sixes to win the match."
+}
+]
+},
+{
+"match_no": "Match 17",
+"season": "2022",
+"insights": [
+{
+"batter": "Moeen Ali",
+"opponent": "SRH",
+"tactical_flaw": "Takes time against sharp raw pace targeted at the chest.",
+"optimal_tactic": "Umran Malik to employ aggressive short pitch bowling."
+},
+{
+"batter": "Abhishek Sharma",
+"opponent": "CSK",
+"tactical_flaw": "Edges deliveries angling across at high pace.",
+"optimal_tactic": "Chris Jordan to bowl back of a length angling across the left-hander."
+}
+],
+"fielding": [
+{
+"batter": "Moeen Ali",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges when he slashes hard."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mukesh Choudhary",
+"batter_benefited": "Abhishek Sharma",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Abhishek went on to score 75 and comfortably secure SRH's first win."
+}
+]
+},
+{
+"match_no": "Match 18",
+"season": "2022",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "RCB",
+"tactical_flaw": "Struggles against early swing moving away, leading to outside edges.",
+"optimal_tactic": "Mohammed Siraj to bowl test-match lines to find the nick."
+},
+{
+"batter": "Anuj Rawat",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the front pad early.",
+"optimal_tactic": "Jasprit Bumrah to pitch it up and look for sharp inswing."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the early nick."
+},
+{
+"batter": "Anuj Rawat",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Dewald Brevis",
+"batter_benefited": "Anuj Rawat",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Rawat capitalized on the poor fielding to score 66 and anchor RCB's chase."
+}
+]
+},
+{
+"match_no": "Match 19",
+"season": "2022",
+"insights": [
+{
+"batter": "David Warner",
+"opponent": "KKR",
+"tactical_flaw": "Bogged down by mystery spin turning away from him on grippy pitches.",
+"optimal_tactic": "Sunil Narine to bowl tight lines to build dot pressure."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "DC",
+"tactical_flaw": "Can be drawn into a false shot by quality left-arm wrist spin tossed up wide.",
+"optimal_tactic": "Kuldeep Yadav to flight the ball and invite the drive against the spin."
+}
+],
+"fielding": [
+{
+"batter": "David Warner",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Venkatesh Iyer",
+"batter_benefited": "Prithvi Shaw",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "DC posted a massive 215, taking the game completely away from KKR."
+}
+]
+},
+{
+"match_no": "Match 20",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "RR",
+"tactical_flaw": "Notoriously vulnerable to first-ball inswinging yorkers from left-arm pacers.",
+"optimal_tactic": "Trent Boult to bowl full and fast, aiming exactly for the front pad immediately."
+},
+{
+"batter": "Devdutt Padikkal",
+"opponent": "LSG",
+"tactical_flaw": "Tentative against sharp off-spin sliding across him.",
+"optimal_tactic": "Krishnappa Gowtham to bowl a tight off-stump line to restrict strike rotation."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the golden duck LBW appeal."
+},
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Shimron Hetmyer",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Hetmyer hit a vital 59*, allowing RR to defend 165 in a very tight finish."
+}
+]
+},
+
+{
+"match_no": "Match 21",
+"season": "2022",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to extreme pace directed straight at the body early in his innings.",
+"optimal_tactic": "Lockie Ferguson to hit the deck hard and target the ribcage."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "SRH",
+"tactical_flaw": "Can be tucked up by left-arm pace angling into his pads.",
+"optimal_tactic": "T. Natarajan to bowl full and search for sharp inward movement."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop the worked singles and build pressure on the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Hardik Pandya",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Hardik survived an early chance to score a steady 50*, anchoring GT's innings."
+}
+]
+},
+{
+"match_no": "Match 22",
+"season": "2022",
+"insights": [
+{
+"batter": "Shivam Dube",
+"opponent": "RCB",
+"tactical_flaw": "Unstoppable against spin but completely freezes against sharp, fast bouncers.",
+"optimal_tactic": "Josh Hazlewood to immediately bowl aggressive short-pitch bowling at the helmet."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "CSK",
+"tactical_flaw": "Struggles against left-arm orthodox spin sliding across him.",
+"optimal_tactic": "Ravindra Jadeja to bowl a tight off-stump line to restrict strike rotation."
+}
+],
+"fielding": [
+{
+"batter": "Shivam Dube",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed specifically for the uncontrolled hook shot."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Akash Deep",
+"batter_benefited": "Robin Uthappa",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Uthappa went on a rampage, combining with Dube to post a monstrous 216 for CSK."
+}
+]
+},
+{
+"match_no": "Match 23",
+"season": "2022",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Kagiso Rabada to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Shikhar Dhawan",
+"opponent": "MI",
+"tactical_flaw": "Can be tucked up by high-pace back-of-a-length deliveries.",
+"optimal_tactic": "Jasprit Bumrah to hit the deck hard and target the ribcage."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Dewald Brevis",
+"batter_benefited": "Mayank Agarwal",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, releasing pressure and helping PBKS post a winning 198."
+}
+]
+},
+{
+"match_no": "Match 24",
+"season": "2022",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "GT",
+"tactical_flaw": "Tentative against sharp inswing from extreme pace early.",
+"optimal_tactic": "Lockie Ferguson to use extreme pace targeting the front pad."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "RR",
+"tactical_flaw": "Tends to muscle the ball but struggles with well-disguised leg-spin.",
+"optimal_tactic": "Yuzvendra Chahal to toss it up wide outside off and invite the big slog."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Leg Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "David Miller",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller capitalized to provide a blistering finish, supporting Hardik's 87*."
+}
+]
+},
+{
+"match_no": "Match 25",
+"season": "2022",
+"insights": [
+{
+"batter": "Rahul Tripathi",
+"opponent": "KKR",
+"tactical_flaw": "High intent leads to early risks outside off-stump.",
+"optimal_tactic": "Andre Russell to bowl test-match lengths outside off."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "SRH",
+"tactical_flaw": "Notorious weakness against the short ball aimed at the right shoulder.",
+"optimal_tactic": "Umran Malik to employ aggressive short pitch bowling at 150 km/h."
+}
+],
+"fielding": [
+{
+"batter": "Rahul Tripathi",
+"bowler_type": "Seam Pacer",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive on the up."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed specifically for the uncontrolled hook shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Varun Chakaravarthy",
+"batter_benefited": "Aiden Markram",
+"position": "Short Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Markram finished the game off comfortably alongside Tripathi with an unbeaten 68*."
+}
+]
+},
+{
+"match_no": "Match 26",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "MI",
+"tactical_flaw": "Can be tied down by express pace yorkers at the death.",
+"optimal_tactic": "Jasprit Bumrah to completely commit to the toe-crushing yorker."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "LSG",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across.",
+"optimal_tactic": "Avesh Khan to use off-cutters dug short into the pitch."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Death Pacers",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he digs it out."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Fabian Allen",
+"batter_benefited": "KL Rahul",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary; Rahul went on to score a brilliant 103* in his 100th IPL match."
+}
+]
+},
+{
+"match_no": "Match 27",
+"season": "2022",
+"insights": [
+{
+"batter": "David Warner",
+"opponent": "RCB",
+"tactical_flaw": "Can be drawn into false drives by late outswing.",
+"optimal_tactic": "Josh Hazlewood to bowl the 4th stump line searching for the outside edge."
+},
+{
+"batter": "Dinesh Karthik",
+"opponent": "DC",
+"tactical_flaw": "Can be cramped by sharp wrist spin turning into him.",
+"optimal_tactic": "Kuldeep Yadav to bowl the googly on middle and leg."
+}
+],
+"fielding": [
+{
+"batter": "David Warner",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial for catching the nick from the driving length."
+},
+{
+"batter": "Dinesh Karthik",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To catch the paddle sweep when cramped."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Dinesh Karthik",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "A disastrous drop; Karthik exploded for 66* off 34 to rescue RCB's innings."
+}
+]
+},
+{
+"match_no": "Match 28",
+"season": "2022",
+"insights": [
+{
+"batter": "Liam Livingstone",
+"opponent": "SRH",
+"tactical_flaw": "Highly aggressive but struggles to hit 150+ km/h yorkers.",
+"optimal_tactic": "Umran Malik to bowl sheer pace directly at the stumps."
+},
+{
+"batter": "Kane Williamson",
+"opponent": "PBKS",
+"tactical_flaw": "Tentative against sharp inswing from high-quality seamers.",
+"optimal_tactic": "Kagiso Rabada to bowl full and fast, aiming for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Liam Livingstone",
+"bowler_type": "Express Pace",
+"recommended_position": "Long On",
+"reason": "To catch the mistimed straight hit against extreme pace."
+},
+{
+"batter": "Kane Williamson",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Odean Smith",
+"batter_benefited": "Nicholas Pooran",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed SRH to comfortably finish the chase after Umran Malik's historic 4-wicket maiden."
+}
+]
+},
+{
+"match_no": "Match 29",
+"season": "2022",
+"insights": [
+{
+"batter": "David Miller",
+"opponent": "CSK",
+"tactical_flaw": "Lethal against spin but bogged down by wide pace off the ball.",
+"optimal_tactic": "Dwayne Bravo to bowl extremely wide, dipping slower balls."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Mohammed Shami to pitch it up and look for sharp inswing."
+}
+],
+"fielding": [
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Dube",
+"batter_benefited": "David Miller",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "One of the most costly drops of the season; Miller smashed 94* to orchestrate a miracle chase."
+}
+]
+},
+{
+"match_no": "Match 30",
+"season": "2022",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "RR",
+"tactical_flaw": "Highly aggressive but impatient against top-tier leg-spin.",
+"optimal_tactic": "Yuzvendra Chahal to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Jos Buttler",
+"opponent": "KKR",
+"tactical_flaw": "Can be drawn into false shots by mystery spin turning away.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, spinning it away from his arc."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Leg Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Jos Buttler",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the sliced drive against the turn."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Venkatesh Iyer",
+"batter_benefited": "Jos Buttler",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Buttler survived to score 103, rendering Chahal's iconic hat-trick just enough to win a high-scoring thriller."
+}
+]
+},
+{
+"match_no": "Match 31",
+"season": "2022",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "RCB",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Josh Hazlewood to bowl wide of off-stump with precision."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "LSG",
+"tactical_flaw": "Struggles against wrist spin turning away from the bat.",
+"optimal_tactic": "Ravi Bishnoi to bowl the googly outside off-stump."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Slip",
+"reason": "Crucial to catch the outside edge when he plays for the turn."
+}
+],
+"fielding_errors": [
+{
+"fielder": "KL Rahul",
+"batter_benefited": "Faf du Plessis",
+"position": "Cover",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Faf to settle; he went on to play a brilliant captain's knock of 96."
+}
+]
+},
+{
+"match_no": "Match 32",
+"season": "2022",
+"insights": [
+{
+"batter": "Mayank Agarwal",
+"opponent": "DC",
+"tactical_flaw": "Struggles against left-arm orthodox spin sliding across him.",
+"optimal_tactic": "Axar Patel to bowl a tight off-stump line to restrict strike rotation."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "PBKS",
+"tactical_flaw": "Loses balance reaching for extreme wide yorkers from left-armers.",
+"optimal_tactic": "Arshdeep Singh to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Mayank Agarwal",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shahrukh Khan",
+"batter_benefited": "Prithvi Shaw",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "A sloppy error as a Covid-hit DC squad routed PBKS with a hyper-aggressive powerplay."
+}
+]
+},
+{
+"match_no": "Match 33",
+"season": "2022",
+"insights": [
+{
+"batter": "MS Dhoni",
+"opponent": "MI",
+"tactical_flaw": "Cannot quickly pivot to play wide, extremely slow off-cutters at the death.",
+"optimal_tactic": "Jaydev Unadkat to bowl wide, dipping slower balls outside his arc."
+},
+{
+"batter": "Rohit Sharma",
+"opponent": "CSK",
+"tactical_flaw": "Notoriously vulnerable to first-ball inswinging yorkers/full balls from left-arm pacers.",
+"optimal_tactic": "Mukesh Choudhary to bowl full and fast, aiming exactly for the front pad immediately."
+}
+],
+"fielding": [
+{
+"batter": "MS Dhoni",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Point",
+"reason": "To catch the slice when he forces a shot on the wide delivery."
+},
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the golden duck LBW appeal or inside edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tilak Varma",
+"batter_benefited": "Ambati Rayudu",
+"position": "Short Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rayudu anchored the chase perfectly, setting the stage for Dhoni's legendary 16-run final over finish."
+}
+]
+},
+{
+"match_no": "Match 34",
+"season": "2022",
+"insights": [
+{
+"batter": "Rovman Powell",
+"opponent": "RR",
+"tactical_flaw": "Struggles to get underneath low, slinging wide yorkers at the death.",
+"optimal_tactic": "Obed McCoy should strictly target the wide blockhole."
+},
+{
+"batter": "Devdutt Padikkal",
+"opponent": "DC",
+"tactical_flaw": "Takes time to accelerate against left-arm wrist spin.",
+"optimal_tactic": "Kuldeep Yadav to bowl flat and quick to choke the strike rate."
+}
+],
+"fielding": [
+{
+"batter": "Rovman Powell",
+"bowler_type": "Sling Pacer",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice when reaching for wide deliveries."
+},
+{
+"batter": "Devdutt Padikkal",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Long On",
+"reason": "To catch him if he prematurely tries to break the shackles."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Obed McCoy",
+"position": "Dugout",
+"error_type": "Tactical Captaincy Error",
+"tactical_impact": "Stopped play to argue a waist-high no-ball. The break in momentum ruined Powell's rhythm after hitting 3 consecutive sixes."
+}
+]
+},
+{
+"match_no": "Match 35",
+"season": "2022",
+"insights": [
+{
+"batter": "Andre Russell",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Mohammed Shami to bowl full inswingers searching for bowled or LBW."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "KKR",
+"tactical_flaw": "Tends to muscle the ball but struggles with fast bouncers directed at his badge.",
+"optimal_tactic": "Tim Southee to employ aggressive short-pitch bowling."
+}
+],
+"fielding": [
+{
+"batter": "Andre Russell",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge when he attempts the awkward hook."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shreyas Iyer",
+"batter_benefited": "David Miller",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller survived to support Hardik's vital 67 on a very tough batting pitch."
+}
+]
+},
+{
+"match_no": "Match 36",
+"season": "2022",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to left-arm pacers angling the ball across him outside off-stump early on.",
+"optimal_tactic": "Marco Jansen to bowl full, searching for the outside edge on the 4th stump line."
+},
+{
+"batter": "Aiden Markram",
+"opponent": "RCB",
+"tactical_flaw": "Struggles to generate power on wide dipping slower balls.",
+"optimal_tactic": "Harshal Patel to bowl off-cutters extremely wide of the off-stump."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Second Slip",
+"reason": "To catch the outside edge when he forces a drive against the angle."
+},
+{
+"batter": "Aiden Markram",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Point",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Glenn Maxwell",
+"batter_benefited": "Kane Williamson",
+"position": "Slip",
+"error_type": "Dropped Catch",
+"tactical_impact": "A miserable day for RCB; they were bowled out for 68, and dropped catches made the defense impossible."
+}
+]
+},
+{
+"match_no": "Match 37",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "MI",
+"tactical_flaw": "Over-cautious against extreme pace bouncers directed at the badge.",
+"optimal_tactic": "Jasprit Bumrah to employ aggressive short pitch bowling."
+},
+{
+"batter": "Suryakumar Yadav",
+"opponent": "LSG",
+"tactical_flaw": "Can be tucked up by left-arm pace angling into the ribcage.",
+"optimal_tactic": "Mohsin Khan to bowl back-of-a-length into the body."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kieron Pollard",
+"batter_benefited": "Marcus Stoinis",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "Allowed Stoinis to finish strong, assisting KL Rahul in scoring his second century against MI in the same season."
+}
+]
+},
+{
+"match_no": "Match 38",
+"season": "2022",
+"insights": [
+{
+"batter": "Shikhar Dhawan",
+"opponent": "CSK",
+"tactical_flaw": "Struggles to accelerate against high-quality wide cutters.",
+"optimal_tactic": "Dwayne Bravo to heavily use wide off-cutters away from his hitting arc."
+},
+{
+"batter": "Ambati Rayudu",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps at the death.",
+"optimal_tactic": "Kagiso Rabada to swing the ball into the pads aiming for the yorker."
+}
+],
+"fielding": [
+{
+"batter": "Shikhar Dhawan",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Ambati Rayudu",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the yorker is missed."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravindra Jadeja",
+"batter_benefited": "Shikhar Dhawan",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "A very rare drop from Jadeja; Dhawan batted through the innings for a brilliant 88*."
+}
+]
+},
+{
+"match_no": "Match 39",
+"season": "2022",
+"insights": [
+{
+"batter": "Riyan Parag",
+"opponent": "RCB",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Harshal Patel to extensively use dipping off-cutters."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "RR",
+"tactical_flaw": "Goes hard early; prone to well-disguised left-arm swing.",
+"optimal_tactic": "Trent Boult to pitch it up and look for the outside edge."
+}
+],
+"fielding": [
+{
+"batter": "Riyan Parag",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial for catching the nick from the driving length."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Virat Kohli",
+"batter_benefited": "Riyan Parag",
+"position": "Short Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Parag survived to play a heroic, unbeaten 56* to rescue the RR innings."
+}
+]
+},
+{
+"match_no": "Match 40",
+"season": "2022",
+"insights": [
+{
+"batter": "Rahul Tewatia",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to get underneath extreme wide yorkers angled away.",
+"optimal_tactic": "T. Natarajan to strictly target the wide guideline. Do not bowl at the stumps."
+},
+{
+"batter": "Umran Malik",
+"opponent": "GT",
+"tactical_flaw": "Middle order is susceptible to raw pace exceeding 150 km/h.",
+"optimal_tactic": "Bowl sheer pace at the stumps to expose footwork."
+}
+],
+"fielding": [
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+},
+{
+"batter": "GT Middle Order",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from extreme pace."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Marco Jansen",
+"batter_benefited": "Rashid Khan",
+"position": "Bowler",
+"error_type": "Tactical Execution Failure",
+"tactical_impact": "Failed to hit the wide yorker; Rashid Khan hit 3 sixes in the final over to chase down 22 runs."
+}
+]
+},
+{
+"match_no": "Match 41",
+"season": "2022",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to high-quality left-arm wrist spin tossing the ball up.",
+"optimal_tactic": "Kuldeep Yadav to flight the ball outside off-stump to invite the drive."
+},
+{
+"batter": "Rovman Powell",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against wide yorkers at extreme pace.",
+"optimal_tactic": "Umesh Yadav to strictly target the wide blockhole at the death."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Long Off",
+"reason": "To catch the mistimed lofted drive against the spin."
+},
+{
+"batter": "Rovman Powell",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "To protect the boundary when reaching for wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Umesh Yadav",
+"batter_benefited": "David Warner",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed Warner to provide a solid start; Kuldeep's 4/14 eventually secured the win for DC."
+}
+]
+},
+{
+"match_no": "Match 42",
+"season": "2022",
+"insights": [
+{
+"batter": "Mayank Agarwal",
+"opponent": "LSG",
+"tactical_flaw": "Tentative against high pace moving into the pads early.",
+"optimal_tactic": "Dushmantha Chameera to bowl full and search for sharp inward movement."
+},
+{
+"batter": "Deepak Hooda",
+"opponent": "PBKS",
+"tactical_flaw": "Takes time to accelerate against tight leg-spin.",
+"optimal_tactic": "Rahul Chahar to bowl flat, stump-to-stump lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Mayank Agarwal",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "Inside the ring to cut off the easy flick shot."
+},
+{
+"batter": "Deepak Hooda",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long On",
+"reason": "To catch the forced straight hit when starved of pace."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Jonny Bairstow",
+"batter_benefited": "KL Rahul",
+"position": "Wicketkeeper",
+"error_type": "Missed Catch",
+"tactical_impact": "Failed to collect a thick edge; LSG scraped to 153 which proved enough."
+}
+]
+},
+{
+"match_no": "Match 43",
+"season": "2022",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "GT",
+"tactical_flaw": "Can be tucked up by high pace angling into the ribcage.",
+"optimal_tactic": "Mohammed Shami to hit the deck hard and target the body."
+},
+{
+"batter": "Rahul Tewatia",
+"opponent": "RCB",
+"tactical_flaw": "Pre-meditates the sweep against spin but struggles against wide pace.",
+"optimal_tactic": "Harshal Patel to use wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "David Miller",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller survived to finish the run chase in the final over alongside Tewatia."
+}
+]
+},
+{
+"match_no": "Match 44",
+"season": "2022",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "MI",
+"tactical_flaw": "Tentative against sharp inswing from left-arm pace early.",
+"optimal_tactic": "Daniel Sams to bowl full and fast, aiming for the front pad."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "RR",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across.",
+"optimal_tactic": "Ravichandran Ashwin to vary pace and bowl wide of his arc."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Spin",
+"recommended_position": "Deep Cover",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tim David",
+"batter_benefited": "Sanju Samson",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed RR to set a competitive 158, though MI finally won their first match of the season."
+}
+]
+},
+{
+"match_no": "Match 45",
+"season": "2022",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "LSG",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries.",
+"optimal_tactic": "Dushmantha Chameera to strictly target the wide guideline."
+},
+{
+"batter": "KL Rahul",
+"opponent": "DC",
+"tactical_flaw": "Over-cautious against left-arm spin turning away.",
+"optimal_tactic": "Axar Patel to bowl a tight off-stump line to restrict strike rotation."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Lalit Yadav",
+"batter_benefited": "Deepak Hooda",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary during LSG's powerplay, helping them to 195."
+}
+]
+},
+{
+"match_no": "Match 46",
+"season": "2022",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "CSK",
+"tactical_flaw": "Can be starved of strike by wide lines moving further away.",
+"optimal_tactic": "Mukesh Choudhary to bowl a tight 4th stump line and look for outswing."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to high pace tucked into the ribcage.",
+"optimal_tactic": "Umran Malik to hit the deck hard and aim for the body."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the outside edge on the defensive prod."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Devon Conway",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Conway stayed with Gaikwad to post a record-breaking 182-run opening stand."
+}
+]
+},
+{
+"match_no": "Match 47",
+"season": "2022",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "RR",
+"tactical_flaw": "Highly aggressive but impatient against top-tier leg-spin.",
+"optimal_tactic": "Yuzvendra Chahal to toss it up wide outside off and invite the big slog."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "KKR",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Tim Southee to extensively use dipping off-cutters."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Leg Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Prasidh Krishna",
+"batter_benefited": "Nitish Rana",
+"position": "Fine Leg",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, releasing pressure and helping KKR chase 153 comfortably."
+}
+]
+},
+{
+"match_no": "Match 48",
+"season": "2022",
+"insights": [
+{
+"batter": "Hardik Pandya",
+"opponent": "PBKS",
+"tactical_flaw": "Tends to muscle the ball but struggles with fast bouncers directed at his badge.",
+"optimal_tactic": "Kagiso Rabada to employ aggressive short-pitch bowling."
+},
+{
+"batter": "Liam Livingstone",
+"opponent": "GT",
+"tactical_flaw": "Impatient against high-quality wrist spin.",
+"optimal_tactic": "Rashid Khan to toss it up wide outside off and invite the big slog."
+}
+],
+"fielding": [
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge when he attempts the awkward hook."
+},
+{
+"batter": "Liam Livingstone",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Alzarri Joseph",
+"batter_benefited": "Shikhar Dhawan",
+"position": "Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dhawan anchored the innings with 62* to help PBKS chase down 144."
+}
+]
+},
+{
+"match_no": "Match 49",
+"season": "2022",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to off-spin dragging him wide outside off stump.",
+"optimal_tactic": "Moeen Ali to bowl the off-break away from the right-hander."
+},
+{
+"batter": "Moeen Ali",
+"opponent": "RCB",
+"tactical_flaw": "Struggles to get underneath extreme wide yorkers angled away.",
+"optimal_tactic": "Harshal Patel to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Off-Spin",
+"recommended_position": "Deep Cover",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Moeen Ali",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mukesh Choudhary",
+"batter_benefited": "Mahipal Lomror",
+"position": "Backward Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Lomror played a crucial cameo of 42 to push RCB to a winning total of 173."
+}
+]
+},
+{
+"match_no": "Match 50",
+"season": "2022",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "SRH",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries from high pace.",
+"optimal_tactic": "Umran Malik to strictly target the wide guideline."
+},
+{
+"batter": "Nicholas Pooran",
+"opponent": "DC",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across.",
+"optimal_tactic": "Khaleel Ahmed to use off-cutters dug short into the pitch."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+},
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Khaleel Ahmed",
+"batter_benefited": "Aiden Markram",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "A dramatic match where Warner hit an unbeaten 92 against his former team to secure the win."
+}
+]
+},
+{
+"match_no": "Match 51",
+"season": "2022",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "MI",
+"tactical_flaw": "Looks to drive early. Lured into false shots by late outswing.",
+"optimal_tactic": "Jasprit Bumrah to bowl full outswingers on the 4th stump line."
+},
+{
+"batter": "Rohit Sharma",
+"opponent": "GT",
+"tactical_flaw": "Notoriously vulnerable to first-ball inswinging yorkers/full balls.",
+"optimal_tactic": "Mohammed Shami to bowl full and fast, aiming exactly for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Second Slip",
+"reason": "Crucial to catch the outside edge."
+},
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the golden duck LBW appeal."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Murugan Ashwin",
+"batter_benefited": "Wriddhiman Saha",
+"position": "Deep Square Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Saha scored 55, but Daniel Sams brilliantly defended 9 runs in the final over for MI."
+}
+]
+},
+{
+"match_no": "Match 52",
+"season": "2022",
+"insights": [
+{
+"batter": "Jonny Bairstow",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Trent Boult to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "PBKS",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Arshdeep Singh to bowl wide of off-stump with precision."
+}
+],
+"fielding": [
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mayank Agarwal",
+"batter_benefited": "Devdutt Padikkal",
+"position": "Extra Cover",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary, helping RR chase 190 with ease."
+}
+]
+},
+{
+"match_no": "Match 53",
+"season": "2022",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against mystery spin turning away from the bat.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, spinning it away from his hitting arc."
+},
+{
+"batter": "Andre Russell",
+"opponent": "LSG",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body.",
+"optimal_tactic": "Avesh Khan to bowl the 5th stump line wide yorker consistently."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the forceful drive against the spin."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Mavi",
+"batter_benefited": "Deepak Hooda",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "LSG routed KKR by 75 runs; poor fielding cost KKR heavily."
+}
+]
+},
+{
+"match_no": "Match 54",
+"season": "2022",
+"insights": [
+{
+"batter": "Kane Williamson",
+"opponent": "RCB",
+"tactical_flaw": "Can be starved of strike by wide lines moving further away.",
+"optimal_tactic": "Josh Hazlewood to bowl a tight 4th stump line and look for outswing."
+},
+{
+"batter": "Faf du Plessis",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to high pace tucked into the ribcage early in his innings.",
+"optimal_tactic": "Umran Malik to bowl back-of-a-length into the body to cramp him."
+}
+],
+"fielding": [
+{
+"batter": "Kane Williamson",
+"bowler_type": "Swing Pacer",
+"recommended_position": "First Slip",
+"reason": "Crucial to catch the outside edge on the defensive prod."
+},
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Tripathi",
+"batter_benefited": "Rajat Patidar",
+"position": "Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Patidar built a match-winning partnership with Faf; Hasaranga took 5/18 to destroy SRH."
+}
+]
+},
+{
+"match_no": "Match 55",
+"season": "2022",
+"insights": [
+{
+"batter": "Devon Conway",
+"opponent": "DC",
+"tactical_flaw": "Takes time to accelerate against high-pace cutters dragging him wide.",
+"optimal_tactic": "Khaleel Ahmed to heavily use wide off-cutters away from his hitting arc."
+},
+{
+"batter": "David Warner",
+"opponent": "CSK",
+"tactical_flaw": "Bogged down by mystery spin turning away from him on grippy pitches.",
+"optimal_tactic": "Maheesh Theekshana to bowl tight lines to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Devon Conway",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "David Warner",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Missed Catch",
+"tactical_impact": "Conway scored 87 as CSK absolutely dismantled DC by 91 runs."
+}
+]
+},
+{
+"match_no": "Match 56",
+"season": "2022",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "KKR",
+"tactical_flaw": "Struggles to read mystery spin turning away from the bat.",
+"optimal_tactic": "Sunil Narine to bowl flat on off-stump, spinning it away from his hitting arc."
+},
+{
+"batter": "Venkatesh Iyer",
+"opponent": "MI",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Jasprit Bumrah to use off-cutters dug short."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the forceful drive against the spin."
+},
+{
+"batter": "Venkatesh Iyer",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kieron Pollard",
+"batter_benefited": "Nitish Rana",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Bumrah took a sensational 5/10, but MI's batting collapsed dramatically to lose by 52 runs."
+}
+]
+},
+{
+"match_no": "Match 57",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "GT",
+"tactical_flaw": "Over-cautious against extreme pace bouncers directed at the badge.",
+"optimal_tactic": "Mohammed Shami to employ aggressive short pitch bowling."
+},
+{
+"batter": "Wriddhiman Saha",
+"opponent": "LSG",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Avesh Khan to swing the ball into the pads aiming for LBW."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Express Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Wriddhiman Saha",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is misdirected."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Deepak Hooda",
+"batter_benefited": "Shubman Gill",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Gill scored a masterful 63*; LSG then collapsed to 82 all out, sending GT to the playoffs."
+}
+]
+},
+{
+"match_no": "Match 58",
+"season": "2022",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "DC",
+"tactical_flaw": "Tentative against sharp inswing from left-arm pace early.",
+"optimal_tactic": "Chetan Sakariya to bowl full and fast, aiming for the front pad."
+},
+{
+"batter": "Mitchell Marsh",
+"opponent": "RR",
+"tactical_flaw": "Impatient against high-quality wrist spin.",
+"optimal_tactic": "Yuzvendra Chahal to toss it up wide outside off and invite the big slog."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Mitchell Marsh",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Devdutt Padikkal",
+"batter_benefited": "David Warner",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Warner (52*) and Marsh (89) chased down 161 easily."
+}
+]
+},
+{
+"match_no": "Match 59",
+"season": "2022",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Daniel Sams to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Tilak Varma",
+"opponent": "CSK",
+"tactical_flaw": "Struggles to get underneath slow, wide off-cutters away from his arc.",
+"optimal_tactic": "Dwayne Bravo to heavily use slower cutters wide of off-stump."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Tilak Varma",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot when he slices the wide off-cutter."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mukesh Choudhary",
+"batter_benefited": "Hrithik Shokeen",
+"position": "Short Fine Leg",
+"error_type": "Misfield",
+"tactical_impact": "CSK were bowled out for a shocking 97; Sams took 3/16 to ruin their playoff hopes."
+}
+]
+},
+{
+"match_no": "Match 60",
+"season": "2022",
+"insights": [
+{
+"batter": "Jonny Bairstow",
+"opponent": "RCB",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Mohammed Siraj to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "PBKS",
+"tactical_flaw": "Ultra-aggressive against spin. Can be beaten by flat darts fired at the pads.",
+"optimal_tactic": "Harpreet Brar to bowl stump-to-stump rapidly to restrict his bat swing."
+}
+],
+"fielding": [
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Harshal Patel",
+"batter_benefited": "Liam Livingstone",
+"position": "Deep Square Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Bairstow hit 66 off 29 and Livingstone 70 off 42 to post 209; RCB fell short by 54 runs."
+}
+]
+},
+{
+"match_no": "Match 61",
+"season": "2022",
+"insights": [
+{
+"batter": "Andre Russell",
+"opponent": "SRH",
+"tactical_flaw": "Slashes hard at wide yorkers away from his body but misses if pace is taken off.",
+"optimal_tactic": "T. Natarajan to bowl wide, dipping slower balls outside his arc."
+},
+{
+"batter": "Abhishek Sharma",
+"opponent": "KKR",
+"tactical_flaw": "Edges deliveries angling across at high pace.",
+"optimal_tactic": "Umesh Yadav to bowl back of a length angling across the left-hander."
+}
+],
+"fielding": [
+{
+"batter": "Andre Russell",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Backward Point",
+"reason": "Prime catching spot for his aggressive off-side slashes."
+},
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges when he slashes hard."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Sam Billings",
+"position": "Cover",
+"error_type": "Misfield",
+"tactical_impact": "Russell scored 49* off 28 and took 3 wickets, dominating SRH."
+}
+]
+},
+{
+"match_no": "Match 62",
+"season": "2022",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to high pace tucked into the ribcage.",
+"optimal_tactic": "Mohammed Shami to bowl back-of-a-length into the body to cramp him."
+},
+{
+"batter": "Wriddhiman Saha",
+"opponent": "CSK",
+"tactical_flaw": "Tentative against sharp inswing from left-arm pacers.",
+"optimal_tactic": "Mukesh Choudhary to pitch it up and look for the front pad early."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Wriddhiman Saha",
+"bowler_type": "Left-Arm Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Shivam Dube",
+"batter_benefited": "Matthew Wade",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Saha scored 67* to easily chase down CSK's sluggish 133."
+}
+]
+},
+{
+"match_no": "Match 63",
+"season": "2022",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "RR",
+"tactical_flaw": "Notoriously vulnerable to first-ball inswinging yorkers/full balls from left-arm pacers.",
+"optimal_tactic": "Trent Boult to bowl full and fast, aiming exactly for the front pad immediately."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "LSG",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Avesh Khan to bowl wide of off-stump with precision."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "In position for the golden duck LBW appeal or inside edge."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Marcus Stoinis",
+"batter_benefited": "Sanju Samson",
+"position": "Extra Cover",
+"error_type": "Misfield",
+"tactical_impact": "Boult dismissed de Kock and Badoni early, securing a vital 24-run win for RR."
+}
+]
+},
+{
+"match_no": "Match 64",
+"season": "2022",
+"insights": [
+{
+"batter": "Jonny Bairstow",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to incoming deliveries targeted at the front pad early.",
+"optimal_tactic": "Anrich Nortje to pitch it up and look for sharp inswing."
+},
+{
+"batter": "Mitchell Marsh",
+"opponent": "PBKS",
+"tactical_flaw": "Impatient against high-quality wrist spin.",
+"optimal_tactic": "Rahul Chahar to toss it up wide outside off and invite the big slog."
+}
+],
+"fielding": [
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+},
+{
+"batter": "Mitchell Marsh",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishi Dhawan",
+"batter_benefited": "Sarfaraz Khan",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "DC won by 17 runs, pushing PBKS out of playoff contention."
+}
+]
+},
+{
+"match_no": "Match 65",
+"season": "2022",
+"insights": [
+{
+"batter": "Rahul Tripathi",
+"opponent": "MI",
+"tactical_flaw": "High intent leads to early risks outside off-stump.",
+"optimal_tactic": "Riley Meredith to bowl test-match lengths outside off."
+},
+{
+"batter": "Tim David",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across.",
+"optimal_tactic": "T. Natarajan to use off-cutters dug short into the pitch."
+}
+],
+"fielding": [
+{
+"batter": "Rahul Tripathi",
+"bowler_type": "Seam Pacer",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive on the up."
+},
+{
+"batter": "Tim David",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mayank Markande",
+"batter_benefited": "Tim David",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "David hit 46 off 18 before being run out; SRH barely survived to win by 3 runs."
+}
+]
+},
+{
+"match_no": "Match 66",
+"season": "2022",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "KKR",
+"tactical_flaw": "Fetches wide deliveries from fast bowlers, leading to sliced catches.",
+"optimal_tactic": "Tim Southee to bowl wide of off-stump with precision."
+},
+{
+"batter": "Rinku Singh",
+"opponent": "LSG",
+"tactical_flaw": "Can be starved of strike by firing wide yorkers past the tramline.",
+"optimal_tactic": "Marcus Stoinis to commit fully to the wide yorker. Do not miss on the pads."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Pace",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+},
+{
+"batter": "Rinku Singh",
+"bowler_type": "Death Pacers",
+"recommended_position": "Sweeper Cover",
+"reason": "To cut off boundaries when he manages to slice the wide yorker."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Abhijeet Tomar",
+"batter_benefited": "Quinton de Kock",
+"position": "Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "One of the most expensive drops in history; De Kock scored 140* (the highest score of the season). Rinku Singh nearly chased 210 with 40 off 15 before a miraculous catch by Evin Lewis won it by 2 runs."
+}
+]
+},
+{
+"match_no": "Match 67",
+"season": "2022",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "GT",
+"tactical_flaw": "Frustrated by left-arm spin sliding across him early.",
+"optimal_tactic": "R. Sai Kishore to bowl a tight off-stump line to restrict strike rotation."
+},
+{
+"batter": "David Miller",
+"opponent": "RCB",
+"tactical_flaw": "Lethal against spin but bogged down by wide pace off the ball.",
+"optimal_tactic": "Harshal Patel to bowl wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "Inside the ring to aggressively cut off the quick single."
+},
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Virat Kohli",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Kohli found form with a crucial 73 off 54 to keep RCB's playoff hopes alive."
+}
+]
+},
+{
+"match_no": "Match 68",
+"season": "2022",
+"insights": [
+{
+"batter": "Ravichandran Ashwin",
+"opponent": "CSK",
+"tactical_flaw": "Struggles against slow off-cutters away from his hitting arc.",
+"optimal_tactic": "Matheesha Pathirana to heavily use slower cutters wide of the crease."
+},
+{
+"batter": "Moeen Ali",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to incoming deliveries aiming at the stumps early.",
+"optimal_tactic": "Trent Boult to swing the ball into the pads aiming for LBW."
+}
+],
+"fielding": [
+{
+"batter": "Ravichandran Ashwin",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary on the off-side slap."
+},
+{
+"batter": "Moeen Ali",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot when the ball tails into his pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mukesh Choudhary",
+"batter_benefited": "Yashasvi Jaiswal",
+"position": "Short Third Man",
+"error_type": "Misfield",
+"tactical_impact": "Moeen hit a brilliant 93, but Ashwin's all-round show (40* and 1/28) secured 2nd place for RR."
+}
+]
+},
+{
+"match_no": "Match 69",
+"season": "2022",
+"insights": [
+{
+"batter": "Tim David",
+"opponent": "DC",
+"tactical_flaw": "Struggles to get underneath extreme wide yorkers angled away.",
+"optimal_tactic": "Shardul Thakur to strictly target the wide guideline."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "MI",
+"tactical_flaw": "Loses balance reaching for extreme wide deliveries from high pace.",
+"optimal_tactic": "Jasprit Bumrah to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Tim David",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at wide deliveries."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Tim David",
+"position": "Wicketkeeper",
+"error_type": "Tactical Captaincy Error/No Review",
+"tactical_impact": "Pant did not review a clear nick from David on 0. David smashed 34 off 11, knocking DC out of the playoffs and sending RCB through."
+}
+]
+},
+{
+"match_no": "Match 70",
+"season": "2022",
+"insights": [
+{
+"batter": "Abhishek Sharma",
+"opponent": "PBKS",
+"tactical_flaw": "Edges deliveries angling across at high pace.",
+"optimal_tactic": "Kagiso Rabada to bowl back of a length angling across the left-hander."
+},
+{
+"batter": "Liam Livingstone",
+"opponent": "SRH",
+"tactical_flaw": "Highly aggressive but struggles to hit 150+ km/h yorkers.",
+"optimal_tactic": "Umran Malik to bowl sheer pace directly at the stumps."
+}
+],
+"fielding": [
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges when he slashes hard."
+},
+{
+"batter": "Liam Livingstone",
+"bowler_type": "Express Pace",
+"recommended_position": "Long On",
+"reason": "To catch the mistimed straight hit against extreme pace."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Washington Sundar",
+"batter_benefited": "Shikhar Dhawan",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "A dead rubber match; Livingstone smashed 49* off 22 to finish PBKS's season with a win."
+}
+]
+},
+{
+"match_no": "Qualifier 1",
+"season": "2022",
+"insights": [
+{
+"batter": "David Miller",
+"opponent": "RR",
+"tactical_flaw": "Lethal against spin but bogged down by wide pace off the ball.",
+"optimal_tactic": "Obed McCoy to bowl extremely wide, dipping slower balls."
+},
+{
+"batter": "Jos Buttler",
+"opponent": "GT",
+"tactical_flaw": "Tentative against sharp inswing from extreme pace early.",
+"optimal_tactic": "Mohammed Shami to use extreme pace targeting the front pad."
+}
+],
+"fielding": [
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+},
+{
+"batter": "Jos Buttler",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Hardik Pandya",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Prasidh Krishna failed to execute the wide lines in the final over; Miller hit 3 consecutive sixes to send GT to the Final."
+}
+]
+},
+{
+"match_no": "Eliminator",
+"season": "2022",
+"insights": [
+{
+"batter": "Rajat Patidar",
+"opponent": "LSG",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Avesh Khan to extensively use dipping off-cutters."
+},
+{
+"batter": "KL Rahul",
+"opponent": "RCB",
+"tactical_flaw": "Can be tied down by express pace yorkers at the death.",
+"optimal_tactic": "Josh Hazlewood to completely commit to the toe-crushing yorker."
+}
+],
+"fielding": [
+{
+"batter": "Rajat Patidar",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Death Pacers",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he digs it out."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Deepak Hooda",
+"batter_benefited": "Rajat Patidar",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped Patidar on 72; he went on to score a legendary, match-winning 112* off 54 balls to eliminate LSG."
+}
+]
+},
+{
+"match_no": "Qualifier 2",
+"season": "2022",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "RCB",
+"tactical_flaw": "Can be drawn into false shots by mystery spin turning away.",
+"optimal_tactic": "Glenn Maxwell to bowl flat on off-stump, spinning it away from his arc."
+},
+{
+"batter": "Rajat Patidar",
+"opponent": "RR",
+"tactical_flaw": "Attempts ultra-aggressive shots against pace-off variations.",
+"optimal_tactic": "Obed McCoy to extensively use dipping off-cutters."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the sliced drive against the turn."
+},
+{
+"batter": "Rajat Patidar",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Long Off",
+"reason": "Bait for the mistimed lofted drive off the cutter."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Dinesh Karthik",
+"batter_benefited": "Jos Buttler",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped Buttler on 66; Buttler scored an unbelievable 106* to knock RCB out and send RR to the Final."
+}
+]
+},
+{
+"match_no": "Final",
+"season": "2022",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "RR",
+"tactical_flaw": "Can be tucked up by high pace angling into the ribcage.",
+"optimal_tactic": "Prasidh Krishna to bowl back-of-a-length into the body."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "GT",
+"tactical_flaw": "High intent leads to early risks against leg-spin on a gripping surface.",
+"optimal_tactic": "Rashid Khan to toss it up wide outside off-stump to induce the false shot."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Square Leg",
+"reason": "Ready for the mistimed pull or fend off the ribs."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Shubman Gill",
+"position": "Short Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped Gill on 0 in the first over. Gill carried his bat to 45*, hitting the winning six to secure the championship for Gujarat Titans."
+}
+]
+}
+]

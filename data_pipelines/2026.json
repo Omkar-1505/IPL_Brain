@@ -1,0 +1,3036 @@
+[
+{
+"match_no": "Match 1",
+"season": "2026",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "SRH",
+"tactical_flaw": "Gets bogged down by left-arm orthodox spin sliding across him early in the innings.",
+"optimal_tactic": "Deploy a left-arm spinner immediately in the powerplay. Keep the line tight on middle-and-leg to restrict room."
+},
+{
+"batter": "Travis Head",
+"opponent": "RCB",
+"tactical_flaw": "Vulnerable to high-pace yorkers swinging back into the pads early on.",
+"optimal_tactic": "Use Mohammed Siraj to bowl full, searching for swing into the left-hander's pads."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Left-Arm Orthodox",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick shot and build dot-ball pressure in the powerplay."
+},
+{
+"batter": "Travis Head",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Fine Leg",
+"reason": "Stationed for the inside edge or leg glance when digging out the inswinging yorker."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Travis Head",
+"position": "Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped a thick outside edge in the 2nd over. Head went on to score a rapid 60 in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 2",
+"season": "2026",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "KKR",
+"tactical_flaw": "Struggles against mystery spin turning back into him in the middle overs.",
+"optimal_tactic": "Bowl Sunil Narine with a tight leg-side field, forcing him to sweep."
+},
+{
+"batter": "Andre Russell",
+"opponent": "MI",
+"tactical_flaw": "Often slashes hard at wide yorkers away from his body.",
+"optimal_tactic": "Deploy Jasprit Bumrah. Bowl 5th stump line wide yorkers consistently."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Mystery Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "Forces him to play square rather than fine, cutting off the paddle sweep."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot for his aggressive but risky aerial off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Hardik Pandya",
+"batter_benefited": "Shreyas Iyer",
+"position": "Extra Cover",
+"error_type": "Ground Fielding Error",
+"tactical_impact": "Let a routine drive slip for a boundary, releasing built-up pressure in a tight chase."
+}
+]
+},
+{
+"match_no": "Match 3",
+"season": "2026",
+"insights": [
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "CSK",
+"tactical_flaw": "Tends to fetch wide off-spin deliveries, leading to sliced catches.",
+"optimal_tactic": "Use Moeen Ali or Ravindra Jadeja wide of the off-stump, floating it outside his arc."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "RR",
+"tactical_flaw": "Tentative against sharp inswing in the first two overs.",
+"optimal_tactic": "Trent Boult to bowl back-to-back inswingers aiming for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Off-Spin",
+"recommended_position": "Backward Point",
+"reason": "Perfect placement for the sliced cut shot."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Swing Pacer",
+"recommended_position": "Short Leg",
+"reason": "For any inside edges that pop up off the pads."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Shivam Dube",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Spilled a top edge. Dube capitalized and hit 3 sixes in the next two overs."
+}
+]
+},
+{
+"match_no": "Match 4",
+"season": "2026",
+"insights": [
+{
+"batter": "Shashank Singh",
+"opponent": "GT",
+"tactical_flaw": "Struggles to generate power on slow, back-of-length cutters outside off.",
+"optimal_tactic": "Mohit Sharma to heavily use slower bouncers wide of the crease."
+},
+{
+"batter": "Shubman Gill",
+"opponent": "PBKS",
+"tactical_flaw": "Can be drawn into a false drive by late away swing.",
+"optimal_tactic": "Arshdeep Singh to angle it across and look for the outside edge."
+}
+],
+"fielding": [
+{
+"batter": "Shashank Singh",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary when he tries to slap the slow ball over the off side."
+},
+{
+"batter": "Shubman Gill",
+"bowler_type": "Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial for catching the nick from the driving length."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Harshal Patel",
+"batter_benefited": "David Miller",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Cost PBKS the match as Miller finished the game in the next over."
+}
+]
+},
+{
+"match_no": "Match 5",
+"season": "2026",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "DC",
+"tactical_flaw": "Over-cautious against wrist spin in the middle overs, leading to dot ball pressure.",
+"optimal_tactic": "Bowl Kuldeep Yadav through overs 7-11. Keep the pace varied and use the wrong'un outside off."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "LSG",
+"tactical_flaw": "Loses balance when reaching for wide yorkers from over the wicket.",
+"optimal_tactic": "Pace bowlers must strictly target the wide guideline. Do not bowl at the stumps."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Slip",
+"reason": "To catch the edge when he attempts a defensive prod against the googly."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat at the wide yorker."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Devdutt Padikkal",
+"batter_benefited": "Tristan Stubbs",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Missed a sitter at the boundary, resulting in a six and huge momentum shift."
+}
+]
+},
+{
+"match_no": "Match 6",
+"season": "2026",
+"insights": [
+{
+"batter": "Sunil Narine",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to high pace directed straight at his armpit.",
+"optimal_tactic": "Pat Cummins must bowl short and at the body immediately."
+},
+{
+"batter": "Heinrich Klaasen",
+"opponent": "KKR",
+"tactical_flaw": "Destroys spin but can be bogged down by wide, slow bouncers.",
+"optimal_tactic": "Keep spinners away from him. Use Andre Russell to bowl slow and wide outside off."
+}
+],
+"fielding": [
+{
+"batter": "Sunil Narine",
+"bowler_type": "Express Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the awkward fend off the ribs."
+},
+{
+"batter": "Heinrich Klaasen",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the sliced shot when reaching for the wide slower ball."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mitchell Starc",
+"batter_benefited": "Abhishek Sharma",
+"position": "Fine Leg",
+"error_type": "Misfield",
+"tactical_impact": "Let a ball go through his legs for four, ruining the pressure built in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 7",
+"season": "2026",
+"insights": [
+{
+"batter": "Shivam Dube",
+"opponent": "PBKS",
+"tactical_flaw": "Freezes against sharp, fast bouncers directed at his helmet.",
+"optimal_tactic": "Kagiso Rabada needs to bowl aggressive short pitch bowling around the wicket."
+},
+{
+"batter": "Sam Curran",
+"opponent": "CSK",
+"tactical_flaw": "Struggles to get underneath low, dipping full tosses and yorkers.",
+"optimal_tactic": "Matheesha Pathirana should strictly target his toes at the death."
+}
+],
+"fielding": [
+{
+"batter": "Shivam Dube",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Waiting for the uncontrolled hook shot."
+},
+{
+"batter": "Sam Curran",
+"bowler_type": "Sling Pacer",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive if he manages to dig it out."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Arshdeep Singh",
+"batter_benefited": "MS Dhoni",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped a skier in the 20th over, costing an extra 12 runs."
+}
+]
+},
+{
+"match_no": "Match 8",
+"season": "2026",
+"insights": [
+{
+"batter": "Jake Fraser-McGurk",
+"opponent": "MI",
+"tactical_flaw": "Hits through the line wildly. Prone to playing early against cutters.",
+"optimal_tactic": "Jasprit Bumrah to mix raw pace with the off-cutter to deceive his swing."
+},
+{
+"batter": "Suryakumar Yadav",
+"opponent": "DC",
+"tactical_flaw": "Exploits angles behind square but can be tied down by wide, full lines outside off.",
+"optimal_tactic": "Pack the off-side field and bowl consistent 5th stump wide yorkers."
+}
+],
+"fielding": [
+{
+"batter": "Jake Fraser-McGurk",
+"bowler_type": "Pace",
+"recommended_position": "Mid-Off",
+"reason": "Pushed deep to catch the mistimed lofted drive off the cutter."
+},
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "Essential for catching the slice when he is denied his leg-side pickup shots."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ishan Kishan",
+"batter_benefited": "Rishabh Pant",
+"position": "Wicketkeeper",
+"error_type": "Missed Stumping",
+"tactical_impact": "Failed to collect a wide turning ball, allowing Pant a massive lifeline."
+}
+]
+},
+{
+"match_no": "Match 9",
+"season": "2026",
+"insights": [
+{
+"batter": "Sai Sudharsan",
+"opponent": "RR",
+"tactical_flaw": "Takes time to accelerate. Struggles to hit orthodox spin out of the ground early.",
+"optimal_tactic": "R. Ashwin to bowl early in his innings to choke his strike rate."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "GT",
+"tactical_flaw": "Attempts high-intent shots on every ball early in his innings, increasing risk.",
+"optimal_tactic": "Bowl test-match lengths in the channel outside off. Let his impatience cause a mistake."
+}
+],
+"fielding": [
+{
+"batter": "Sai Sudharsan",
+"bowler_type": "Spin",
+"recommended_position": "Long On",
+"reason": "To catch him if he prematurely tries to break the shackles."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Seam Pacer",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive on the up."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rahul Tewatia",
+"batter_benefited": "Jos Buttler",
+"position": "Backward Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "A tough diving chance missed, allowing Buttler to build a solid opening stand."
+}
+]
+},
+{
+"match_no": "Match 10",
+"season": "2026",
+"insights": [
+{
+"batter": "Abhishek Sharma",
+"opponent": "LSG",
+"tactical_flaw": "Goes hard at everything. Can edge deliveries that angle across him at high pace.",
+"optimal_tactic": "Mayank Yadav to bowl 150km/h+ angling across the left-hander."
+},
+{
+"batter": "Nicholas Pooran",
+"opponent": "SRH",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers angled across his body.",
+"optimal_tactic": "Use off-cutters dug short into the pitch. Force him to drag the ball from outside off."
+}
+],
+"fielding": [
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Express Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges."
+},
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Medium Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull shot off the slow bouncer."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravi Bishnoi",
+"batter_benefited": "Travis Head",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Dived over a cut shot, giving away 4 runs and releasing pressure."
+}
+]
+},
+{
+"match_no": "Match 11",
+"season": "2026",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "CSK",
+"tactical_flaw": "Can be bowled through the gate by sharp turning leg-spin early in the innings.",
+"optimal_tactic": "Deploy a spinner early to target the gap between bat and pad."
+},
+{
+"batter": "Ravindra Jadeja",
+"opponent": "RCB",
+"tactical_flaw": "Prefers pace on the ball. Struggles to hit slow off-cutters straight down the ground.",
+"optimal_tactic": "Use variations in pace; bowl slow, dipping cutters away from his hitting arc."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop the worked singles and build pressure."
+},
+{
+"batter": "Ravindra Jadeja",
+"bowler_type": "Cutters",
+"recommended_position": "Long Off",
+"reason": "Placed exactly where he tends to miscue the slower deliveries."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Glenn Maxwell",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped a sharp catch that allowed Gaikwad to anchor the innings."
+}
+]
+},
+{
+"match_no": "Match 12",
+"season": "2026",
+"insights": [
+{
+"batter": "Phil Salt",
+"opponent": "PBKS",
+"tactical_flaw": "Dominates pace in the powerplay but struggles with tight off-spin.",
+"optimal_tactic": "Introduce a finger spinner in the first 3 overs to restrict boundary options on the leg side."
+},
+{
+"batter": "Jonny Bairstow",
+"opponent": "KKR",
+"tactical_flaw": "Vulnerable to incoming deliveries that target the stumps early on.",
+"optimal_tactic": "Mitchell Starc to swing the ball into the pads aiming for LBW or bowled."
+}
+],
+"fielding": [
+{
+"batter": "Phil Salt",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To cut off the sweeps and paddles he uses to counter spin."
+},
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot if the inswinger is slightly misdirected."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sunil Narine",
+"batter_benefited": "Sam Curran",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Failed to hold onto a thick edge, extending the PBKS innings by 20 runs."
+}
+]
+},
+{
+"match_no": "Match 13",
+"season": "2026",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "MI",
+"tactical_flaw": "Can be tentative early against sharp inswing from around the wicket.",
+"optimal_tactic": "Use Jasprit Bumrah with a brand new ball targeting the front pad."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "RR",
+"tactical_flaw": "Tends to muscle the ball over mid-wicket but struggles with back-of-length deliveries cramping his room.",
+"optimal_tactic": "Bowl into the pitch, targeting the lower chest. Do not give him length to extend his arms."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Hit-the-deck Pacer",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop the cramped pull shot and build pressure."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tim David",
+"batter_benefited": "Riyan Parag",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Parag was dropped on 15 and went on to score a match-winning 65."
+}
+]
+},
+{
+"match_no": "Match 14",
+"season": "2026",
+"insights": [
+{
+"batter": "Tristan Stubbs",
+"opponent": "GT",
+"tactical_flaw": "Extremely strong down the ground but struggles to generate power on wide yorkers.",
+"optimal_tactic": "Commit fully to the wide yorker line at the death. Do not bowl at his stumps."
+},
+{
+"batter": "David Miller",
+"opponent": "DC",
+"tactical_flaw": "Lethal against spin but can be bogged down by wide pace off the ball.",
+"optimal_tactic": "Use Khaleel Ahmed to bowl wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Tristan Stubbs",
+"bowler_type": "Death Pacers",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice when he reaches for the wide deliveries."
+},
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Cover",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Rishabh Pant",
+"position": "Long On",
+"error_type": "Misjudged Catch",
+"tactical_impact": "Lost the ball in the lights, parrying it over the rope for six."
+}
+]
+},
+{
+"match_no": "Match 15",
+"season": "2026",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "LSG",
+"tactical_flaw": "Notorious weakness against the short ball aimed at the right shoulder.",
+"optimal_tactic": "Employ Mayank Yadav to bowl persistent short-pitch bowling at extreme pace."
+},
+{
+"batter": "Marcus Stoinis",
+"opponent": "KKR",
+"tactical_flaw": "Plants his front foot early. Vulnerable to fast, full deliveries swinging into the pads.",
+"optimal_tactic": "Mitchell Starc to bowl full and fast aiming for the base of middle stump."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Express Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed specifically for the uncontrolled hook shot."
+},
+{
+"batter": "Marcus Stoinis",
+"bowler_type": "Pace",
+"recommended_position": "Mid-On",
+"reason": "Brought inside the ring to restrict his straight drives."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rinku Singh",
+"batter_benefited": "KL Rahul",
+"position": "Sweeper Cover",
+"error_type": "Ground Fielding Error",
+"tactical_impact": "Fumbled a routine pickup, allowing a second run that shifted the momentum."
+}
+]
+},
+{
+"match_no": "Match 16",
+"season": "2026",
+"insights": [
+{
+"batter": "Riyan Parag",
+"opponent": "RCB",
+"tactical_flaw": "Can be overly aggressive against spin, leading to mistimed slog sweeps.",
+"optimal_tactic": "Toss the ball up wide outside off-stump with a spinner to invite the slog against the turn."
+},
+{
+"batter": "Rajat Patidar",
+"opponent": "RR",
+"tactical_flaw": "Stationary against spin early in the innings; hits exclusively from the crease.",
+"optimal_tactic": "Bowl extremely slow pace, 4th/5th stump line to force him to generate all the power."
+}
+],
+"fielding": [
+{
+"batter": "Riyan Parag",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for the mistimed slog sweep."
+},
+{
+"batter": "Rajat Patidar",
+"bowler_type": "Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the reverse sweep when bowling the wide slow line."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Jos Buttler",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped an easy top edge, allowing Buttler to bat through the innings."
+}
+]
+},
+{
+"match_no": "Match 17",
+"season": "2026",
+"insights": [
+{
+"batter": "Ashutosh Sharma",
+"opponent": "SRH",
+"tactical_flaw": "Excellent at sweeping pace, but struggles with high-pace bouncers aimed at the badge.",
+"optimal_tactic": "Pat Cummins must bowl aggressive bouncers to negate his scooping abilities."
+},
+{
+"batter": "Aiden Markram",
+"opponent": "PBKS",
+"tactical_flaw": "Can be tied down by mystery spin turning back into him.",
+"optimal_tactic": "Use Rahul Chahar to bowl the googly continuously on middle and leg."
+}
+],
+"fielding": [
+{
+"batter": "Ashutosh Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "Pushed back to catch the top edge from the bouncer."
+},
+{
+"batter": "Aiden Markram",
+"bowler_type": "Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick when he fails to read the googly."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sam Curran",
+"batter_benefited": "Heinrich Klaasen",
+"position": "Long Off",
+"error_type": "Missed Catch",
+"tactical_impact": "Misjudged the flight of the ball, resulting in a crucial six during the death overs."
+}
+]
+},
+{
+"match_no": "Match 18",
+"season": "2026",
+"insights": [
+{
+"batter": "MS Dhoni",
+"opponent": "DC",
+"tactical_flaw": "Cannot quickly pivot to play the short ball directed at his ribcage.",
+"optimal_tactic": "Anrich Nortje to bowl extreme pace directly at the body to cramp him completely."
+},
+{
+"batter": "Axar Patel",
+"opponent": "CSK",
+"tactical_flaw": "Strong off the pads but struggles to drive cleanly through the off-side against spin.",
+"optimal_tactic": "Ravindra Jadeja to bowl darting deliveries wide of the off-stump."
+}
+],
+"fielding": [
+{
+"batter": "MS Dhoni",
+"bowler_type": "Pace",
+"recommended_position": "Backward Square Leg",
+"reason": "To catch the fended short ball."
+},
+{
+"batter": "Axar Patel",
+"bowler_type": "Spin",
+"recommended_position": "Extra Cover",
+"reason": "To stop the drive and build dot ball pressure."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped a thin edge in the 3rd over; Gaikwad scored a pivotal 50."
+}
+]
+},
+{
+"match_no": "Match 19",
+"season": "2026",
+"insights": [
+{
+"batter": "Quinton de Kock",
+"opponent": "GT",
+"tactical_flaw": "Vulnerable to off-spin dragging him wide outside off stump.",
+"optimal_tactic": "Rashid Khan to bowl the leg break away from the left-hander to force him to reach."
+},
+{
+"batter": "Rahul Tewatia",
+"opponent": "LSG",
+"tactical_flaw": "Pre-meditates the sweep against spin.",
+"optimal_tactic": "Bowl quick and flat on the stumps. Do not give the ball air."
+}
+],
+"fielding": [
+{
+"batter": "Quinton de Kock",
+"bowler_type": "Spin",
+"recommended_position": "Deep Cover",
+"reason": "To catch the sliced shot when reaching for wide deliveries."
+},
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Spin",
+"recommended_position": "Deep Square Leg",
+"reason": "To limit the damage if he connects with the sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Shubman Gill",
+"position": "Mid-Off",
+"error_type": "Misfield",
+"tactical_impact": "Let the ball slip for four on a crucial free-hit."
+}
+]
+},
+{
+"match_no": "Match 20",
+"season": "2026",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "RCB",
+"tactical_flaw": "Looks to clear the leg side but struggles against genuine pace moving away.",
+"optimal_tactic": "Mohammed Siraj to angle the ball across the left-hander from over the wicket."
+},
+{
+"batter": "Glenn Maxwell",
+"opponent": "MI",
+"tactical_flaw": "Highly aggressive but impatient against high-quality wrist spin.",
+"optimal_tactic": "Bring on Piyush Chawla immediately. Toss it up wide outside off and invite the big slog sweep."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "To catch the outside edge from the away-angling delivery."
+},
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Hardik Pandya",
+"batter_benefited": "Virat Kohli",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped Kohli on 22; he went on to score a match-winning 85 not out."
+}
+]
+},
+{
+"match_no": "Match 21",
+"season": "2026",
+"insights": [
+{
+"batter": "Travis Head",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to early swing targeting his front pad.",
+"optimal_tactic": "Trent Boult to bowl full and search for inswing immediately."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "SRH",
+"tactical_flaw": "Often fetches wide off-spin deliveries.",
+"optimal_tactic": "Washington Sundar to bowl wide of off-stump, inviting the sliced drive."
+}
+],
+"fielding": [
+{
+"batter": "Travis Head",
+"bowler_type": "Pace",
+"recommended_position": "Short Fine Leg",
+"reason": "For the inside edge onto the pads."
+},
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Spin",
+"recommended_position": "Backward Point",
+"reason": "Perfect for the sliced cut shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "T. Natarajan",
+"batter_benefited": "Sanju Samson",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped a top edge, Samson scored 45 more runs."
+}
+]
+},
+{
+"match_no": "Match 22",
+"season": "2026",
+"insights": [
+{
+"batter": "Shivam Dube",
+"opponent": "KKR",
+"tactical_flaw": "Freezes against sharp bouncers at the body.",
+"optimal_tactic": "Mitchell Starc to bowl aggressive short-pitch bowling."
+},
+{
+"batter": "Andre Russell",
+"opponent": "CSK",
+"tactical_flaw": "Slashes hard at wide yorkers.",
+"optimal_tactic": "Matheesha Pathirana to bowl wide yorkers consistently."
+}
+],
+"fielding": [
+{
+"batter": "Shivam Dube",
+"bowler_type": "Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "For the uncontrolled hook shot."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot for his wide off-side slashes."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Varun Chakaravarthy",
+"batter_benefited": "MS Dhoni",
+"position": "Short Third Man",
+"error_type": "Misfield",
+"tactical_impact": "Allowed a crucial boundary in the 19th over."
+}
+]
+},
+{
+"match_no": "Match 23",
+"season": "2026",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "LSG",
+"tactical_flaw": "Struggles with leg-spin early in the innings.",
+"optimal_tactic": "Ravi Bishnoi to bowl googlies in the powerplay."
+},
+{
+"batter": "KL Rahul",
+"opponent": "RCB",
+"tactical_flaw": "Over-cautious against off-spin.",
+"optimal_tactic": "Glenn Maxwell to bowl tight off-spin to build dot pressure."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Spin",
+"recommended_position": "Slip",
+"reason": "To catch the edge off the googly."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop singles and build pressure."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Nicholas Pooran",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Pooran hit 3 sixes immediately after."
+}
+]
+},
+{
+"match_no": "Match 24",
+"season": "2026",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to away swing.",
+"optimal_tactic": "Arshdeep Singh to angle across the left-hander."
+},
+{
+"batter": "Shashank Singh",
+"opponent": "MI",
+"tactical_flaw": "Struggles to generate power on slow cutters.",
+"optimal_tactic": "Hardik Pandya to heavily use slower bouncers."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "For the outside edge."
+},
+{
+"batter": "Shashank Singh",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary on the off-side slap."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tim David",
+"batter_benefited": "Sam Curran",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Missed a sitter, changing the momentum."
+}
+]
+},
+{
+"match_no": "Match 25",
+"season": "2026",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "KKR",
+"tactical_flaw": "Lured into false drives by outswing.",
+"optimal_tactic": "Mitchell Starc to bowl full outswingers."
+},
+{
+"batter": "Shreyas Iyer",
+"opponent": "GT",
+"tactical_flaw": "Weakness against the short ball.",
+"optimal_tactic": "Spencer Johnson to bowl aggressive bouncers."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial for the driving edge."
+},
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "Stationed for the uncontrolled hook."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Rinku Singh",
+"position": "Long On",
+"error_type": "Misjudged Catch",
+"tactical_impact": "Parried over the rope for six."
+}
+]
+},
+{
+"match_no": "Match 26",
+"season": "2026",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "DC",
+"tactical_flaw": "Frustrated by boundary riders cutting off singles.",
+"optimal_tactic": "Axar Patel to bowl tight with the ring field up."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "RCB",
+"tactical_flaw": "Loses balance on wide yorkers.",
+"optimal_tactic": "Mohammed Siraj to target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary when he throws his bat."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rajat Patidar",
+"batter_benefited": "Jake Fraser-McGurk",
+"position": "Extra Cover",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed a massive powerplay score."
+}
+]
+},
+{
+"match_no": "Match 27",
+"season": "2026",
+"insights": [
+{
+"batter": "Heinrich Klaasen",
+"opponent": "CSK",
+"tactical_flaw": "Bogged down by wide, slow bouncers.",
+"optimal_tactic": "Matheesha Pathirana to bowl slow and wide outside off."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "SRH",
+"tactical_flaw": "Tentative against sharp inswing.",
+"optimal_tactic": "Bhuvneshwar Kumar to look for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Heinrich Klaasen",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the sliced shot."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "For inside edges."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Abdul Samad",
+"batter_benefited": "Ravindra Jadeja",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Crucial drop in the 18th over."
+}
+]
+},
+{
+"match_no": "Match 28",
+"season": "2026",
+"insights": [
+{
+"batter": "Sunil Narine",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to high pace at the armpit.",
+"optimal_tactic": "Trent Boult to bowl short at the body."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "KKR",
+"tactical_flaw": "High intent on every ball leads to risks.",
+"optimal_tactic": "Varun Chakaravarthy to bowl wide and slow."
+}
+],
+"fielding": [
+{
+"batter": "Sunil Narine",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the awkward fend."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the aggressive lofted shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rinku Singh",
+"batter_benefited": "Riyan Parag",
+"position": "Sweeper Cover",
+"error_type": "Ground Fielding Error",
+"tactical_impact": "Gave away an extra 2 runs, losing strike pressure."
+}
+]
+},
+{
+"match_no": "Match 29",
+"season": "2026",
+"insights": [
+{
+"batter": "Sam Curran",
+"opponent": "LSG",
+"tactical_flaw": "Struggles to dig out dipping yorkers.",
+"optimal_tactic": "Mayank Yadav to target the toes."
+},
+{
+"batter": "Nicholas Pooran",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Harshal Patel to use off-cutters dug short."
+}
+],
+"fielding": [
+{
+"batter": "Sam Curran",
+"bowler_type": "Pace",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive."
+},
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Liam Livingstone",
+"position": "Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Missed a sharp chance."
+}
+]
+},
+{
+"match_no": "Match 30",
+"season": "2026",
+"insights": [
+{
+"batter": "Sai Sudharsan",
+"opponent": "MI",
+"tactical_flaw": "Takes time to accelerate against spin.",
+"optimal_tactic": "Piyush Chawla to bowl early to choke strike rate."
+},
+{
+"batter": "Suryakumar Yadav",
+"opponent": "GT",
+"tactical_flaw": "Tied down by wide, full lines outside off.",
+"optimal_tactic": "Mohit Sharma to bowl consistent 5th stump wide yorkers."
+}
+],
+"fielding": [
+{
+"batter": "Sai Sudharsan",
+"bowler_type": "Spin",
+"recommended_position": "Long On",
+"reason": "To catch him if he prematurely breaks shackles."
+},
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the slice when denied leg-side shots."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Hardik Pandya",
+"batter_benefited": "David Miller",
+"position": "Long Off",
+"error_type": "Missed Catch",
+"tactical_impact": "Lost in the lights, huge momentum shift."
+}
+]
+},
+{
+"match_no": "Match 31",
+"season": "2026",
+"insights": [
+{
+"batter": "Abhishek Sharma",
+"opponent": "DC",
+"tactical_flaw": "Edges deliveries angling across at high pace.",
+"optimal_tactic": "Anrich Nortje to bowl back of a length angling across."
+},
+{
+"batter": "Jake Fraser-McGurk",
+"opponent": "SRH",
+"tactical_flaw": "Prone to playing early against cutters.",
+"optimal_tactic": "Pat Cummins to mix raw pace with the off-cutter."
+}
+],
+"fielding": [
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges."
+},
+{
+"batter": "Jake Fraser-McGurk",
+"bowler_type": "Pace",
+"recommended_position": "Mid-Off",
+"reason": "Pushed deep to catch the mistimed lofted drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Axar Patel",
+"batter_benefited": "Heinrich Klaasen",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Klaasen finished the game in the next over."
+}
+]
+},
+{
+"match_no": "Match 32",
+"season": "2026",
+"insights": [
+{
+"batter": "Marcus Stoinis",
+"opponent": "RR",
+"tactical_flaw": "Vulnerable to fast inswing into the pads.",
+"optimal_tactic": "Trent Boult to bowl full aiming for middle stump."
+},
+{
+"batter": "Riyan Parag",
+"opponent": "LSG",
+"tactical_flaw": "Mistimes slog sweeps against spin.",
+"optimal_tactic": "Ravi Bishnoi to toss it up wide outside off."
+}
+],
+"fielding": [
+{
+"batter": "Marcus Stoinis",
+"bowler_type": "Pace",
+"recommended_position": "Mid-On",
+"reason": "Inside the ring to restrict straight drives."
+},
+{
+"batter": "Riyan Parag",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime location for the mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Devdutt Padikkal",
+"batter_benefited": "Yashasvi Jaiswal",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away 4 runs in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 33",
+"season": "2026",
+"insights": [
+{
+"batter": "Rohit Sharma",
+"opponent": "CSK",
+"tactical_flaw": "Struggles against left-arm spin turning in.",
+"optimal_tactic": "Ravindra Jadeja to bowl with a tight leg-side field."
+},
+{
+"batter": "Shivam Dube",
+"opponent": "MI",
+"tactical_flaw": "Freezes against sharp bouncers.",
+"optimal_tactic": "Jasprit Bumrah to bowl aggressive bouncers."
+}
+],
+"fielding": [
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "Forces him to play square."
+},
+{
+"batter": "Shivam Dube",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge hook."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ishan Kishan",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gaikwad anchored the innings after."
+}
+]
+},
+{
+"match_no": "Match 34",
+"season": "2026",
+"insights": [
+{
+"batter": "Glenn Maxwell",
+"opponent": "GT",
+"tactical_flaw": "Impatient against high-quality wrist spin.",
+"optimal_tactic": "Rashid Khan to toss it up wide outside off."
+},
+{
+"batter": "David Miller",
+"opponent": "RCB",
+"tactical_flaw": "Bogged down by wide pace off the ball.",
+"optimal_tactic": "Mohammed Siraj to bowl wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "For a mistimed slog sweep."
+},
+{
+"batter": "David Miller",
+"bowler_type": "Pace",
+"recommended_position": "Deep Cover",
+"reason": "To defend the slap shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yash Dayal",
+"batter_benefited": "Shubman Gill",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Cost RCB the momentum."
+}
+]
+},
+{
+"match_no": "Match 35",
+"season": "2026",
+"insights": [
+{
+"batter": "Tristan Stubbs",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to generate power on wide yorkers.",
+"optimal_tactic": "Arshdeep Singh to commit fully to the wide yorker line."
+},
+{
+"batter": "Jonny Bairstow",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to incoming deliveries.",
+"optimal_tactic": "Khaleel Ahmed to swing the ball into the pads."
+}
+],
+"fielding": [
+{
+"batter": "Tristan Stubbs",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice."
+},
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kuldeep Yadav",
+"batter_benefited": "Sam Curran",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away a boundary under pressure."
+}
+]
+},
+{
+"match_no": "Match 36",
+"season": "2026",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "SRH",
+"tactical_flaw": "Tentative early against sharp inswing.",
+"optimal_tactic": "Bhuvneshwar Kumar to target the front pad."
+},
+{
+"batter": "Aiden Markram",
+"opponent": "RR",
+"tactical_flaw": "Tied down by mystery spin.",
+"optimal_tactic": "Yuzvendra Chahal to bowl googlies on middle/leg."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "For the inside edge."
+},
+{
+"batter": "Aiden Markram",
+"bowler_type": "Spin",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To cut off the flick."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Riyan Parag",
+"batter_benefited": "Heinrich Klaasen",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Crucial drop in the 16th over."
+}
+]
+},
+{
+"match_no": "Match 37",
+"season": "2026",
+"insights": [
+{
+"batter": "MS Dhoni",
+"opponent": "GT",
+"tactical_flaw": "Cannot quickly pivot to play short balls.",
+"optimal_tactic": "Spencer Johnson to bowl directly at the body."
+},
+{
+"batter": "Rahul Tewatia",
+"opponent": "CSK",
+"tactical_flaw": "Pre-meditates the sweep against spin.",
+"optimal_tactic": "Ravindra Jadeja to bowl quick and flat."
+}
+],
+"fielding": [
+{
+"batter": "MS Dhoni",
+"bowler_type": "Pace",
+"recommended_position": "Backward Square Leg",
+"reason": "To catch the fended ball."
+},
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Spin",
+"recommended_position": "Deep Square Leg",
+"reason": "To limit sweep damage."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Shivam Dube",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Cost an extra 20 runs."
+}
+]
+},
+{
+"match_no": "Match 38",
+"season": "2026",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "KKR",
+"tactical_flaw": "Over-cautious against spin.",
+"optimal_tactic": "Sunil Narine to bowl through the middle overs."
+},
+{
+"batter": "Phil Salt",
+"opponent": "LSG",
+"tactical_flaw": "Struggles with tight off-spin.",
+"optimal_tactic": "Krunal Pandya to restrict boundary options early."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Spin",
+"recommended_position": "Slip",
+"reason": "To catch the defensive prod edge."
+},
+{
+"batter": "Phil Salt",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To cut off sweeps."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravi Bishnoi",
+"batter_benefited": "Andre Russell",
+"position": "Deep Point",
+"error_type": "Dropped Catch",
+"tactical_impact": "Russell went on a rampage."
+}
+]
+},
+{
+"match_no": "Match 39",
+"season": "2026",
+"insights": [
+{
+"batter": "Rishabh Pant",
+"opponent": "RCB",
+"tactical_flaw": "Loses balance reaching for wide yorkers.",
+"optimal_tactic": "Yash Dayal to strictly target the wide guideline."
+},
+{
+"batter": "Rajat Patidar",
+"opponent": "DC",
+"tactical_flaw": "Stationary against spin early.",
+"optimal_tactic": "Kuldeep Yadav to bowl slow, wide lines."
+}
+],
+"fielding": [
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary."
+},
+{
+"batter": "Rajat Patidar",
+"bowler_type": "Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the reverse sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Glenn Maxwell",
+"batter_benefited": "Tristan Stubbs",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "Turned a single into a boundary."
+}
+]
+},
+{
+"match_no": "Match 40",
+"season": "2026",
+"insights": [
+{
+"batter": "Ashutosh Sharma",
+"opponent": "RR",
+"tactical_flaw": "Struggles with high-pace bouncers.",
+"optimal_tactic": "Avesh Khan to bowl aggressive bouncers."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "PBKS",
+"tactical_flaw": "Attempts high-intent shots early.",
+"optimal_tactic": "Kagiso Rabada to bowl test-match lengths outside off."
+}
+],
+"fielding": [
+{
+"batter": "Ashutosh Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Pace",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Harshal Patel",
+"batter_benefited": "Yashasvi Jaiswal",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Missed a crucial catch in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 41",
+"season": "2026",
+"insights": [
+{
+"batter": "Hardik Pandya",
+"opponent": "SRH",
+"tactical_flaw": "Tends to muscle the ball over mid-wicket but struggles with back-of-length deliveries cramping his room.",
+"optimal_tactic": "Pat Cummins should bowl into the pitch, targeting the lower chest. Do not give him length to extend his arms."
+},
+{
+"batter": "Travis Head",
+"opponent": "MI",
+"tactical_flaw": "Exploits pace-on but can be tied down by slow left-arm orthodox angled into his pads.",
+"optimal_tactic": "Use a spinner early in the powerplay to bowl tight lines on middle and leg."
+}
+],
+"fielding": [
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Hit-the-deck Pacers",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop the cramped pull shot and build dot-ball pressure."
+},
+{
+"batter": "Travis Head",
+"bowler_type": "Left-Arm Orthodox",
+"recommended_position": "Short Fine Leg",
+"reason": "To cut off the glance and paddle sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ishan Kishan",
+"batter_benefited": "Travis Head",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Put down a thick edge in the 2nd over. Head capitalized to score 45 off 20 balls."
+}
+]
+},
+{
+"match_no": "Match 42",
+"season": "2026",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "RCB",
+"tactical_flaw": "Looks to drive early. Can be lured into nicking off by outswingers pitched on a driving length.",
+"optimal_tactic": "Use Mohammed Siraj to bowl full outswingers on the 4th stump line. Invite the majestic drive."
+},
+{
+"batter": "Virat Kohli",
+"opponent": "GT",
+"tactical_flaw": "Can be frustrated by boundary riders cutting off his singles in the middle overs.",
+"optimal_tactic": "Bring the field up in the ring, deny the easy single, and force him to take aerial risks against spin."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Swing Pacers",
+"recommended_position": "Second Slip",
+"reason": "Crucial to catch the outside edge when he reaches for the driving length."
+},
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spinners",
+"recommended_position": "Cover (Inside the Ring)",
+"reason": "To aggressively cut off the strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Glenn Maxwell",
+"batter_benefited": "David Miller",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Spilled a flat slog sweep, costing RCB 15 runs in the death overs."
+}
+]
+},
+{
+"match_no": "Match 43",
+"season": "2026",
+"insights": [
+{
+"batter": "Sanju Samson",
+"opponent": "DC",
+"tactical_flaw": "Attempts ultra-aggressive shots early.",
+"optimal_tactic": "Anrich Nortje to bowl test-match lengths outside off."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "RR",
+"tactical_flaw": "Loses balance reaching for wide yorkers.",
+"optimal_tactic": "Trent Boult to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Sanju Samson",
+"bowler_type": "Pace",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Tristan Stubbs",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed Stubbs to finish the innings strong."
+}
+]
+},
+{
+"match_no": "Match 44",
+"season": "2026",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "MI",
+"tactical_flaw": "Vulnerable to high pace tucked into the ribs.",
+"optimal_tactic": "Jasprit Bumrah to bowl back-of-length into the body."
+},
+{
+"batter": "Suryakumar Yadav",
+"opponent": "CSK",
+"tactical_flaw": "Tied down by wide, full lines.",
+"optimal_tactic": "Matheesha Pathirana to bowl wide yorkers."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Square Leg",
+"reason": "For the mistimed pull."
+},
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the sliced shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Hardik Pandya",
+"batter_benefited": "Shivam Dube",
+"position": "Long On",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 45",
+"season": "2026",
+"insights": [
+{
+"batter": "Heinrich Klaasen",
+"opponent": "KKR",
+"tactical_flaw": "Bogged down by wide, slow bouncers.",
+"optimal_tactic": "Andre Russell to bowl slow and wide outside off."
+},
+{
+"batter": "Sunil Narine",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to high pace at the armpit.",
+"optimal_tactic": "Pat Cummins to bowl short and at the body."
+}
+],
+"fielding": [
+{
+"batter": "Heinrich Klaasen",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the sliced shot."
+},
+{
+"batter": "Sunil Narine",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the awkward fend."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mitchell Starc",
+"batter_benefited": "Abhishek Sharma",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Costly drop in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 46",
+"season": "2026",
+"insights": [
+{
+"batter": "Sai Sudharsan",
+"opponent": "PBKS",
+"tactical_flaw": "Takes time to accelerate against spin.",
+"optimal_tactic": "Rahul Chahar to bowl early to choke strike rate."
+},
+{
+"batter": "Shashank Singh",
+"opponent": "GT",
+"tactical_flaw": "Struggles on slow cutters.",
+"optimal_tactic": "Mohit Sharma to heavily use slower bouncers."
+}
+],
+"fielding": [
+{
+"batter": "Sai Sudharsan",
+"bowler_type": "Spin",
+"recommended_position": "Long On",
+"reason": "To catch the forced loft."
+},
+{
+"batter": "Shashank Singh",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sam Curran",
+"batter_benefited": "David Miller",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller changed the game."
+}
+]
+},
+{
+"match_no": "Match 47",
+"season": "2026",
+"insights": [
+{
+"batter": "Ishan Kishan",
+"opponent": "LSG",
+"tactical_flaw": "Vulnerable to away swing.",
+"optimal_tactic": "Mayank Yadav to angle across at high pace."
+},
+{
+"batter": "Nicholas Pooran",
+"opponent": "MI",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Jasprit Bumrah to use off-cutters dug short."
+}
+],
+"fielding": [
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "For the outside edge."
+},
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravi Bishnoi",
+"batter_benefited": "Rohit Sharma",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 48",
+"season": "2026",
+"insights": [
+{
+"batter": "Shreyas Iyer",
+"opponent": "CSK",
+"tactical_flaw": "Weakness against the short ball.",
+"optimal_tactic": "Matheesha Pathirana to bowl aggressive bouncers."
+},
+{
+"batter": "Shivam Dube",
+"opponent": "DC",
+"tactical_flaw": "Freezes against sharp bouncers.",
+"optimal_tactic": "Anrich Nortje to bowl at the helmet."
+}
+],
+"fielding": [
+{
+"batter": "Shreyas Iyer",
+"bowler_type": "Pace",
+"recommended_position": "Deep Square Leg",
+"reason": "For the uncontrolled hook."
+},
+{
+"batter": "Shivam Dube",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rishabh Pant",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Crucial drop in the 5th over."
+}
+]
+},
+{
+"match_no": "Match 49",
+"season": "2026",
+"insights": [
+{
+"batter": "Abhishek Sharma",
+"opponent": "PBKS",
+"tactical_flaw": "Edges deliveries angling across.",
+"optimal_tactic": "Kagiso Rabada to bowl back of a length angling across."
+},
+{
+"batter": "Jonny Bairstow",
+"opponent": "SRH",
+"tactical_flaw": "Vulnerable to incoming deliveries.",
+"optimal_tactic": "Bhuvneshwar Kumar to swing the ball into the pads."
+}
+],
+"fielding": [
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "For flying outside edges."
+},
+{
+"batter": "Jonny Bairstow",
+"bowler_type": "Pace",
+"recommended_position": "Square Leg",
+"reason": "To catch the flick shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Arshdeep Singh",
+"batter_benefited": "Travis Head",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Head scored 50 more runs."
+}
+]
+},
+{
+"match_no": "Match 50",
+"season": "2026",
+"insights": [
+{
+"batter": "KL Rahul",
+"opponent": "RCB",
+"tactical_flaw": "Over-cautious against spin.",
+"optimal_tactic": "Glenn Maxwell to bowl tight off-spin."
+},
+{
+"batter": "Virat Kohli",
+"opponent": "LSG",
+"tactical_flaw": "Frustrated by boundary riders.",
+"optimal_tactic": "Ravi Bishnoi to bowl with a tight ring field."
+}
+],
+"fielding": [
+{
+"batter": "KL Rahul",
+"bowler_type": "Spin",
+"recommended_position": "Slip",
+"reason": "To catch the defensive prod."
+},
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "To cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Marcus Stoinis",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Stoinis took advantage in the death overs."
+}
+]
+},
+{
+"match_no": "Match 51",
+"season": "2026",
+"insights": [
+{
+"batter": "Jake Fraser-McGurk",
+"opponent": "KKR",
+"tactical_flaw": "Prone to playing early against cutters.",
+"optimal_tactic": "Harshit Rana to mix raw pace with the off-cutter."
+},
+{
+"batter": "Andre Russell",
+"opponent": "DC",
+"tactical_flaw": "Slashes hard at wide yorkers.",
+"optimal_tactic": "Khaleel Ahmed to bowl wide yorkers."
+}
+],
+"fielding": [
+{
+"batter": "Jake Fraser-McGurk",
+"bowler_type": "Pace",
+"recommended_position": "Mid-Off",
+"reason": "Pushed deep to catch the mistimed drive."
+},
+{
+"batter": "Andre Russell",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Prime catching spot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Kuldeep Yadav",
+"batter_benefited": "Sunil Narine",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy 4."
+}
+]
+},
+{
+"match_no": "Match 52",
+"season": "2026",
+"insights": [
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "GT",
+"tactical_flaw": "Fetches wide off-spin deliveries.",
+"optimal_tactic": "Rashid Khan to bowl wide of off-stump."
+},
+{
+"batter": "Shubman Gill",
+"opponent": "RR",
+"tactical_flaw": "Lured into false drives.",
+"optimal_tactic": "Trent Boult to bowl full outswingers."
+}
+],
+"fielding": [
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Spin",
+"recommended_position": "Backward Point",
+"reason": "Perfect for the sliced cut."
+},
+{
+"batter": "Shubman Gill",
+"bowler_type": "Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial for the edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Riyan Parag",
+"batter_benefited": "David Miller",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Miller finished the game."
+}
+]
+},
+{
+"match_no": "Match 53",
+"season": "2026",
+"insights": [
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "LSG",
+"tactical_flaw": "Tentative against sharp inswing.",
+"optimal_tactic": "Mohsin Khan to look for the front pad."
+},
+{
+"batter": "Marcus Stoinis",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to fast inswing into the pads.",
+"optimal_tactic": "Matheesha Pathirana to bowl full aiming for middle stump."
+}
+],
+"fielding": [
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "For inside edges."
+},
+{
+"batter": "Marcus Stoinis",
+"bowler_type": "Pace",
+"recommended_position": "Mid-On",
+"reason": "Inside the ring."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravindra Jadeja",
+"batter_benefited": "Nicholas Pooran",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rare drop that cost the match."
+}
+]
+},
+{
+"match_no": "Match 54",
+"season": "2026",
+"insights": [
+{
+"batter": "Faf du Plessis",
+"opponent": "MI",
+"tactical_flaw": "Struggles with leg-spin early.",
+"optimal_tactic": "Piyush Chawla to bowl googlies."
+},
+{
+"batter": "Rohit Sharma",
+"opponent": "RCB",
+"tactical_flaw": "Struggles against left-arm spin turning in.",
+"optimal_tactic": "Swapnil Singh to bowl with a tight leg-side field."
+}
+],
+"fielding": [
+{
+"batter": "Faf du Plessis",
+"bowler_type": "Spin",
+"recommended_position": "Slip",
+"reason": "To catch the edge."
+},
+{
+"batter": "Rohit Sharma",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "Forces him to play square."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Tim David",
+"batter_benefited": "Glenn Maxwell",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Maxwell scored a quick 40."
+}
+]
+},
+{
+"match_no": "Match 55",
+"season": "2026",
+"insights": [
+{
+"batter": "Ashutosh Sharma",
+"opponent": "DC",
+"tactical_flaw": "Struggles with high-pace bouncers.",
+"optimal_tactic": "Anrich Nortje to bowl aggressive bouncers."
+},
+{
+"batter": "Tristan Stubbs",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles on wide yorkers.",
+"optimal_tactic": "Arshdeep Singh to target the wide line."
+}
+],
+"fielding": [
+{
+"batter": "Ashutosh Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge."
+},
+{
+"batter": "Tristan Stubbs",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "To cover the slice."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sam Curran",
+"batter_benefited": "Rishabh Pant",
+"position": "Mid-Off",
+"error_type": "Misfield",
+"tactical_impact": "Allowed an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 56",
+"season": "2026",
+"insights": [
+{
+"batter": "Sai Sudharsan",
+"opponent": "SRH",
+"tactical_flaw": "Takes time to accelerate.",
+"optimal_tactic": "Washington Sundar to bowl early."
+},
+{
+"batter": "Heinrich Klaasen",
+"opponent": "GT",
+"tactical_flaw": "Bogged down by wide, slow bouncers.",
+"optimal_tactic": "Mohit Sharma to bowl slow and wide outside off."
+}
+],
+"fielding": [
+{
+"batter": "Sai Sudharsan",
+"bowler_type": "Spin",
+"recommended_position": "Long On",
+"reason": "To catch him breaking shackles."
+},
+{
+"batter": "Heinrich Klaasen",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the sliced shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Travis Head",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Head took the game away."
+}
+]
+},
+{
+"match_no": "Match 57",
+"season": "2026",
+"insights": [
+{
+"batter": "Rajat Patidar",
+"opponent": "KKR",
+"tactical_flaw": "Stationary against spin early.",
+"optimal_tactic": "Sunil Narine to bowl slow, wide lines."
+},
+{
+"batter": "Phil Salt",
+"opponent": "RCB",
+"tactical_flaw": "Struggles with tight off-spin.",
+"optimal_tactic": "Glenn Maxwell to restrict boundary options."
+}
+],
+"fielding": [
+{
+"batter": "Rajat Patidar",
+"bowler_type": "Spin",
+"recommended_position": "Deep Point",
+"reason": "To cover the reverse sweep."
+},
+{
+"batter": "Phil Salt",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To cut off sweeps."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Andre Russell",
+"position": "Long Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Russell capitalized in the death."
+}
+]
+},
+{
+"match_no": "Match 58",
+"season": "2026",
+"insights": [
+{
+"batter": "Shashank Singh",
+"opponent": "MI",
+"tactical_flaw": "Struggles to generate power on slow cutters.",
+"optimal_tactic": "Hardik Pandya to use slower bouncers."
+},
+{
+"batter": "Ishan Kishan",
+"opponent": "PBKS",
+"tactical_flaw": "Vulnerable to away swing.",
+"optimal_tactic": "Arshdeep Singh to angle across."
+}
+],
+"fielding": [
+{
+"batter": "Shashank Singh",
+"bowler_type": "Cutters",
+"recommended_position": "Deep Cover",
+"reason": "To guard the boundary."
+},
+{
+"batter": "Ishan Kishan",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "For the outside edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sam Curran",
+"batter_benefited": "Tim David",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "Missed chance."
+}
+]
+},
+{
+"match_no": "Match 59",
+"season": "2026",
+"insights": [
+{
+"batter": "Nicholas Pooran",
+"opponent": "CSK",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Matheesha Pathirana to use off-cutters dug short."
+},
+{
+"batter": "MS Dhoni",
+"opponent": "LSG",
+"tactical_flaw": "Cannot quickly pivot to play short balls.",
+"optimal_tactic": "Mayank Yadav to bowl directly at the body."
+}
+],
+"fielding": [
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+},
+{
+"batter": "MS Dhoni",
+"bowler_type": "Pace",
+"recommended_position": "Backward Square Leg",
+"reason": "To catch the fended ball."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravi Bishnoi",
+"batter_benefited": "Ruturaj Gaikwad",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 60",
+"season": "2026",
+"insights": [
+{
+"batter": "Rinku Singh",
+"opponent": "GT",
+"tactical_flaw": "Incredible at the death, but can be starved of strike by firing wide yorkers past the tramline.",
+"optimal_tactic": "Commit fully to the wide yorker. Do not miss on the pads under any circumstances."
+},
+{
+"batter": "Sai Sudharsan",
+"opponent": "KKR",
+"tactical_flaw": "Takes time to accelerate. Struggles to hit orthodox off-spin out of the ground early.",
+"optimal_tactic": "Deploy Sunil Narine early in his innings to choke his strike rate."
+}
+],
+"fielding": [
+{
+"batter": "Rinku Singh",
+"bowler_type": "Death Pacers",
+"recommended_position": "Sweeper Cover",
+"reason": "To cut off boundaries when he manages to slice the wide yorker."
+},
+{
+"batter": "Sai Sudharsan",
+"bowler_type": "Off-Spin",
+"recommended_position": "Long On",
+"reason": "To catch him if he prematurely tries to break the shackles."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Andre Russell",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Crucial drop in the 18th over."
+}
+]
+},
+{
+"match_no": "Match 61",
+"season": "2026",
+"insights": [
+{
+"batter": "Sam Curran",
+"opponent": "RCB",
+"tactical_flaw": "Struggles to dig out dipping yorkers.",
+"optimal_tactic": "Mohammed Siraj to target the toes."
+},
+{
+"batter": "Virat Kohli",
+"opponent": "PBKS",
+"tactical_flaw": "Frustrated by boundary riders.",
+"optimal_tactic": "Rahul Chahar to bowl tight with the ring field up."
+}
+],
+"fielding": [
+{
+"batter": "Sam Curran",
+"bowler_type": "Pace",
+"recommended_position": "Long On",
+"reason": "To cut off the straight drive."
+},
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spin",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Harshal Patel",
+"batter_benefited": "Glenn Maxwell",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed Maxwell to accelerate."
+}
+]
+},
+{
+"match_no": "Match 62",
+"season": "2026",
+"insights": [
+{
+"batter": "Jake Fraser-McGurk",
+"opponent": "RR",
+"tactical_flaw": "Prone to playing early against cutters.",
+"optimal_tactic": "Sandeep Sharma to mix raw pace with the off-cutter."
+},
+{
+"batter": "Sanju Samson",
+"opponent": "DC",
+"tactical_flaw": "High intent leads to early risks.",
+"optimal_tactic": "Axar Patel to bowl wide and slow."
+}
+],
+"fielding": [
+{
+"batter": "Jake Fraser-McGurk",
+"bowler_type": "Pace",
+"recommended_position": "Mid-Off",
+"reason": "Pushed deep to catch the mistimed drive."
+},
+{
+"batter": "Sanju Samson",
+"bowler_type": "Spin",
+"recommended_position": "Long Off",
+"reason": "Bait for the lofted shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Yuzvendra Chahal",
+"batter_benefited": "Rishabh Pant",
+"position": "Short Third Man",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 63",
+"season": "2026",
+"insights": [
+{
+"batter": "Shivam Dube",
+"opponent": "SRH",
+"tactical_flaw": "Freezes against sharp bouncers.",
+"optimal_tactic": "Pat Cummins to bowl aggressive bouncers."
+},
+{
+"batter": "Travis Head",
+"opponent": "CSK",
+"tactical_flaw": "Vulnerable to early swing.",
+"optimal_tactic": "Deepak Chahar to bowl full and search for inswing."
+}
+],
+"fielding": [
+{
+"batter": "Shivam Dube",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge hook."
+},
+{
+"batter": "Travis Head",
+"bowler_type": "Pace",
+"recommended_position": "Short Fine Leg",
+"reason": "For the inside edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ravindra Jadeja",
+"batter_benefited": "Heinrich Klaasen",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Rare drop by Jadeja, cost 30 runs."
+}
+]
+},
+{
+"match_no": "Match 64",
+"season": "2026",
+"insights": [
+{
+"batter": "Yashasvi Jaiswal",
+"opponent": "LSG",
+"tactical_flaw": "Fetches wide off-spin deliveries.",
+"optimal_tactic": "Ravi Bishnoi to bowl wide of off-stump."
+},
+{
+"batter": "KL Rahul",
+"opponent": "RR",
+"tactical_flaw": "Over-cautious against spin.",
+"optimal_tactic": "R. Ashwin to bowl tight off-spin."
+}
+],
+"fielding": [
+{
+"batter": "Yashasvi Jaiswal",
+"bowler_type": "Spin",
+"recommended_position": "Backward Point",
+"reason": "Perfect for the sliced cut."
+},
+{
+"batter": "KL Rahul",
+"bowler_type": "Spin",
+"recommended_position": "Slip",
+"reason": "To catch the defensive prod."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Devdutt Padikkal",
+"batter_benefited": "Sanju Samson",
+"position": "Backward Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 65",
+"season": "2026",
+"insights": [
+{
+"batter": "Phil Salt",
+"opponent": "MI",
+"tactical_flaw": "Struggles with tight off-spin.",
+"optimal_tactic": "Piyush Chawla to restrict boundary options."
+},
+{
+"batter": "Hardik Pandya",
+"opponent": "KKR",
+"tactical_flaw": "Struggles with back-of-length cramping his room.",
+"optimal_tactic": "Mitchell Starc to bowl into the pitch."
+}
+],
+"fielding": [
+{
+"batter": "Phil Salt",
+"bowler_type": "Spin",
+"recommended_position": "Short Fine Leg",
+"reason": "To cut off sweeps."
+},
+{
+"batter": "Hardik Pandya",
+"bowler_type": "Pace",
+"recommended_position": "Short Mid-Wicket",
+"reason": "To stop the cramped pull shot."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Sunil Narine",
+"batter_benefited": "Ishan Kishan",
+"position": "Short Third Man",
+"error_type": "Dropped Catch",
+"tactical_impact": "Costly drop in the powerplay."
+}
+]
+},
+{
+"match_no": "Match 66",
+"season": "2026",
+"insights": [
+{
+"batter": "Shubman Gill",
+"opponent": "CSK",
+"tactical_flaw": "Lured into false drives by outswing.",
+"optimal_tactic": "Deepak Chahar to bowl full outswingers."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"opponent": "GT",
+"tactical_flaw": "Tentative against sharp inswing.",
+"optimal_tactic": "Spencer Johnson to look for the front pad."
+}
+],
+"fielding": [
+{
+"batter": "Shubman Gill",
+"bowler_type": "Pace",
+"recommended_position": "First Slip",
+"reason": "Crucial for the edge."
+},
+{
+"batter": "Ruturaj Gaikwad",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "For inside edges."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Shivam Dube",
+"position": "Long On",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dube finished the match."
+}
+]
+},
+{
+"match_no": "Match 67",
+"season": "2026",
+"insights": [
+{
+"batter": "Abhishek Sharma",
+"opponent": "RCB",
+"tactical_flaw": "Edges deliveries angling across at high pace.",
+"optimal_tactic": "Mohammed Siraj to bowl back of a length angling across."
+},
+{
+"batter": "Virat Kohli",
+"opponent": "SRH",
+"tactical_flaw": "Frustrated by boundary riders.",
+"optimal_tactic": "Pat Cummins to bowl tight with the ring field up."
+}
+],
+"fielding": [
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Third Man",
+"reason": "High probability of flying outside edges."
+},
+{
+"batter": "Virat Kohli",
+"bowler_type": "Pace",
+"recommended_position": "Cover",
+"reason": "To aggressively cut off strike rotation."
+}
+],
+"fielding_errors": [
+{
+"fielder": "T. Natarajan",
+"batter_benefited": "Faf du Plessis",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Allowed a strong opening stand."
+}
+]
+},
+{
+"match_no": "Match 68",
+"season": "2026",
+"insights": [
+{
+"batter": "Nicholas Pooran",
+"opponent": "PBKS",
+"tactical_flaw": "Struggles to generate power on short, slow bouncers.",
+"optimal_tactic": "Arshdeep Singh to use off-cutters dug short."
+},
+{
+"batter": "Ashutosh Sharma",
+"opponent": "LSG",
+"tactical_flaw": "Struggles with high-pace bouncers.",
+"optimal_tactic": "Mayank Yadav to bowl aggressive bouncers."
+}
+],
+"fielding": [
+{
+"batter": "Nicholas Pooran",
+"bowler_type": "Pace",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "To catch the mistimed pull."
+},
+{
+"batter": "Ashutosh Sharma",
+"bowler_type": "Pace",
+"recommended_position": "Fine Leg",
+"reason": "For the top edge."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Krunal Pandya",
+"batter_benefited": "Sam Curran",
+"position": "Point",
+"error_type": "Misfield",
+"tactical_impact": "Gave away an easy boundary."
+}
+]
+},
+{
+"match_no": "Match 69",
+"season": "2026",
+"insights": [
+{
+"batter": "Suryakumar Yadav",
+"opponent": "RR",
+"tactical_flaw": "Tied down by wide, full lines outside off.",
+"optimal_tactic": "Trent Boult to bowl consistent 5th stump wide yorkers."
+},
+{
+"batter": "Riyan Parag",
+"opponent": "MI",
+"tactical_flaw": "Mistimes slog sweeps against spin.",
+"optimal_tactic": "Piyush Chawla to toss it up wide outside off."
+}
+],
+"fielding": [
+{
+"batter": "Suryakumar Yadav",
+"bowler_type": "Pace",
+"recommended_position": "Deep Backward Point",
+"reason": "For the slice when denied leg-side shots."
+},
+{
+"batter": "Riyan Parag",
+"bowler_type": "Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for the mistimed slog sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Ishan Kishan",
+"batter_benefited": "Sanju Samson",
+"position": "Wicketkeeper",
+"error_type": "Dropped Catch",
+"tactical_impact": "Costly drop in the middle overs."
+}
+]
+},
+{
+"match_no": "Match 70",
+"season": "2026",
+"insights": [
+{
+"batter": "Sunil Narine",
+"opponent": "DC",
+"tactical_flaw": "Vulnerable to high pace at the armpit.",
+"optimal_tactic": "Anrich Nortje to bowl short at the body."
+},
+{
+"batter": "Rishabh Pant",
+"opponent": "KKR",
+"tactical_flaw": "Loses balance reaching for wide yorkers.",
+"optimal_tactic": "Mitchell Starc to strictly target the wide guideline."
+}
+],
+"fielding": [
+{
+"batter": "Sunil Narine",
+"bowler_type": "Pace",
+"recommended_position": "Short Leg",
+"reason": "Ready for the awkward fend."
+},
+{
+"batter": "Rishabh Pant",
+"bowler_type": "Pace",
+"recommended_position": "Deep Point",
+"reason": "Protects the boundary."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Varun Chakaravarthy",
+"batter_benefited": "Jake Fraser-McGurk",
+"position": "Short Third Man",
+"error_type": "Misfield",
+"tactical_impact": "Allowed a crucial boundary."
+}
+]
+},
+{
+"match_no": "Qualifier 1",
+"season": "2026",
+"insights": [
+{
+"batter": "Glenn Maxwell",
+"opponent": "GT",
+"tactical_flaw": "Highly aggressive but impatient against high-quality wrist spin.",
+"optimal_tactic": "Bring on Rashid Khan immediately. Toss it up wide outside off and invite the big slog sweep."
+},
+{
+"batter": "David Miller",
+"opponent": "RCB",
+"tactical_flaw": "Lethal against spin but can be bogged down by wide pace off the ball.",
+"optimal_tactic": "Use Harshal Patel to bowl wide, dipping slower balls."
+}
+],
+"fielding": [
+{
+"batter": "Glenn Maxwell",
+"bowler_type": "Wrist Spin",
+"recommended_position": "Deep Mid-Wicket",
+"reason": "Prime catching location for a mistimed slog sweep."
+},
+{
+"batter": "David Miller",
+"bowler_type": "Slower Pacers",
+"recommended_position": "Deep Point",
+"reason": "To defend against the slap shot over the off-side."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Mohammed Siraj",
+"batter_benefited": "Shubman Gill",
+"position": "Fine Leg",
+"error_type": "Dropped Catch",
+"tactical_impact": "Gill scored a pivotal 60 in a high-pressure match."
+}
+]
+},
+{
+"match_no": "Eliminator",
+"season": "2026",
+"insights": [
+{
+"batter": "Sanju Samson",
+"opponent": "SRH",
+"tactical_flaw": "Attempts ultra-aggressive, high-intent shots on every ball early in the innings, increasing risk.",
+"optimal_tactic": "Bowl test-match lengths in the channel outside off. Let his impatience cause a mistake."
+},
+{
+"batter": "Abhishek Sharma",
+"opponent": "RR",
+"tactical_flaw": "Steps out to spinners regardless of the line, leaving himself vulnerable to stumpings.",
+"optimal_tactic": "Use Yuzvendra Chahal to bowl wide and slow, dragging him out of the crease."
+}
+],
+"fielding": [
+{
+"batter": "Sanju Samson",
+"bowler_type": "Seam Pacers",
+"recommended_position": "Point",
+"reason": "To catch the slashed drive on the up."
+},
+{
+"batter": "Abhishek Sharma",
+"bowler_type": "Leg Spin",
+"recommended_position": "Long Off",
+"reason": "Pushed back as bait to encourage him to step out and loft."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Riyan Parag",
+"batter_benefited": "Heinrich Klaasen",
+"position": "Long On",
+"error_type": "Misjudged Catch",
+"tactical_impact": "Parried it for a six, ending RR's campaign."
+}
+]
+},
+{
+"match_no": "Qualifier 2",
+"season": "2026",
+"insights": [
+{
+"batter": "Jos Buttler",
+"opponent": "GT",
+"tactical_flaw": "Can be tentative early in the innings against sharp inswing.",
+"optimal_tactic": "Use Mohammed Shami with a brand new ball targeting the front pad. Look for early LBW."
+},
+{
+"batter": "Rahul Tewatia",
+"opponent": "RR",
+"tactical_flaw": "Pre-meditates the sweep against spin.",
+"optimal_tactic": "Bowl quick and flat on the stumps. Do not give the ball air."
+}
+],
+"fielding": [
+{
+"batter": "Jos Buttler",
+"bowler_type": "Swing Pacers",
+"recommended_position": "Short Leg",
+"reason": "In position for the inside edge onto the pads."
+},
+{
+"batter": "Rahul Tewatia",
+"bowler_type": "Spin",
+"recommended_position": "Deep Square Leg",
+"reason": "To limit the damage if he connects with the sweep."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Rashid Khan",
+"batter_benefited": "Sanju Samson",
+"position": "Mid-Off",
+"error_type": "Dropped Catch",
+"tactical_impact": "A rare drop from Rashid in a crucial knockout match."
+}
+]
+},
+{
+"match_no": "Final",
+"season": "2026",
+"insights": [
+{
+"batter": "Virat Kohli",
+"opponent": "GT",
+"tactical_flaw": "In high-pressure run chases, he looks to anchor. Can be squeezed by boundary riders cutting off his singles.",
+"optimal_tactic": "Bring the field up in the ring, deny the easy single, and force him to take aerial risks against spin."
+},
+{
+"batter": "Shubman Gill",
+"opponent": "RCB",
+"tactical_flaw": "Prefers pace on the ball to time his shots. Can struggle to force the pace against cutters on a sticky wicket.",
+"optimal_tactic": "Deploy Siraj with cross-seam cutters into the pitch. Remove all pace from the delivery."
+}
+],
+"fielding": [
+{
+"batter": "Virat Kohli",
+"bowler_type": "Spinners",
+"recommended_position": "Cover & Mid-Wicket (Inside the Ring)",
+"reason": "To aggressively cut off the strike rotation and build scoreboard pressure."
+},
+{
+"batter": "Shubman Gill",
+"bowler_type": "Pace (Cutters)",
+"recommended_position": "Long On",
+"reason": "To catch the mistimed lofted drive when he tries to force the pace."
+}
+],
+"fielding_errors": [
+{
+"fielder": "Glenn Maxwell",
+"batter_benefited": "Sai Sudharsan",
+"position": "Deep Mid-Wicket",
+"error_type": "Dropped Catch",
+"tactical_impact": "Dropped the trophy. Sudharsan went on to score a match-winning 96."
+}
+]
+}
+]
