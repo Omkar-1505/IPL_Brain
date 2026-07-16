@@ -176,7 +176,8 @@ const Navbar = ({ active, setActive }) => {
 const FieldingIntel = ({ player }) => {
   if (!player) return null;
   const primary = player.General_Fielding_Position || player.Primary_Position;
-  const loose = player.Loose_Fielding_Position;
+  const loose = player.Out_Of_Position_Vulnerability || player.Loose_Fielding_Position;
+  const isLooseValid = loose && loose !== "None" && loose !== "Unknown" && loose !== "Not Available";
 
   if (primary === 'Wicketkeeper' || primary === 'Wicket Keeper') {
     return (
@@ -196,16 +197,24 @@ const FieldingIntel = ({ player }) => {
         <CheckCircle2 className="text-green-500 w-5 h-5 shrink-0 mt-0.5" />
         <div>
           <p className="text-green-400 font-bold text-sm">OPTIMAL ZONE</p>
-          <p className="text-green-200 text-sm">{(primary && primary !== "Unknown" && primary !== "None") ? primary : "Good Fielding at all"}</p>
+          <p className="text-green-200 text-sm">{(primary && primary !== "Unknown" && primary !== "None" && primary !== "Not Available") ? primary : "Any Position"}</p>
         </div>
       </div>
 
-      {loose && loose !== "None" && loose !== "Unknown" && (
+      {isLooseValid ? (
         <div className="bg-red-950/30 border border-red-900/50 rounded-xl p-4 flex items-start gap-3">
           <AlertTriangle className="text-red-500 w-5 h-5 shrink-0 mt-0.5" />
           <div>
             <p className="text-red-500 font-bold text-sm">LIABILITY</p>
             <p className="text-red-200 text-sm">Fielding error at <span className="font-bold underline">{loose}</span>.</p>
+          </div>
+        </div>
+      ) : (
+        <div className="bg-emerald-950/30 border border-emerald-900/50 rounded-xl p-4 flex items-start gap-3">
+          <Shield className="text-emerald-500 w-5 h-5 shrink-0 mt-0.5" />
+          <div>
+            <p className="text-emerald-400 font-bold text-sm">SOLID DEFENSE</p>
+            <p className="text-emerald-200 text-sm">Good in Fielding in all position</p>
           </div>
         </div>
       )}
@@ -235,6 +244,11 @@ const PlayerDetailCard = ({ player }) => {
       .slice(0, 3)
       .join(', ');
   }
+
+  const primaryFielding = player.General_Fielding_Position && player.General_Fielding_Position !== 'Unknown' && player.General_Fielding_Position !== 'None' && player.General_Fielding_Position !== 'Not Available' ? player.General_Fielding_Position : (player.Primary_Position && player.Primary_Position !== 'Not Available' ? player.Primary_Position : "Any Position");
+  
+  const looseValue = player.Out_Of_Position_Vulnerability || player.Loose_Fielding_Position;
+  const looseFielding = looseValue && looseValue !== 'None' && looseValue !== 'Not Available' && looseValue !== 'Unknown' ? looseValue : "Good in Fielding in all position";
 
   return (
     <motion.div initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} className="bg-slate-900/90 backdrop-blur-2xl border border-slate-700 rounded-[2rem] p-8 shadow-2xl w-full">
@@ -287,11 +301,11 @@ const PlayerDetailCard = ({ player }) => {
           </div>
           <div className="bg-green-950/20 p-4 rounded-2xl border border-green-900/30">
             <p className="text-xs text-green-500 uppercase font-bold mb-2">Strong Zone</p>
-            <p className="text-green-100 font-medium text-sm">{(player.General_Fielding_Position && player.General_Fielding_Position !== 'Unknown' && player.General_Fielding_Position !== 'None') ? player.General_Fielding_Position : "Good Fielding at all"}</p>
+            <p className="text-green-100 font-medium text-sm">{primaryFielding}</p>
           </div>
           <div className="bg-red-950/20 p-4 rounded-2xl border border-red-900/30">
             <p className="text-xs text-red-500 uppercase font-bold mb-2">Liability Zone / Drops</p>
-            <p className="text-red-100 font-medium text-sm">{player.Loose_Fielding_Position && player.Loose_Fielding_Position !== 'None' && player.Loose_Fielding_Position !== 'Unknown' ? player.Loose_Fielding_Position : "No glaring weakness"}</p>
+            <p className="text-red-100 font-medium text-sm">{looseFielding}</p>
           </div>
         </div>
       </div>
