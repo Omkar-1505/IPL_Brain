@@ -1,5 +1,4 @@
 
-Readme · MD
 <div align="center">
  IPL Tactical Command Center & AI Coach
  
